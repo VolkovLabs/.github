@@ -1,6 +1,6 @@
 <h2 align="center">An agency specializing in custom plugin development for Grafana and founded by long-time Grafana contributor Mikhail Volkov.</h2>
 
-<p align="center"><a href="https://volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Web-red?style=for-the-badge&logo=webpack"></a> <a href="https://volkovlabs.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-red?style=for-the-badge&logo=medium"></a> <a href="https://demo.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Demo%20Server-gray?style=for-the-badge&logo=codeforces"></a>  <a href="https://www.linkedin.com/company/volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://twitter.com/volkovlabs" target="_blank"></p>
+<p align="center"><a href="https://volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Web-purple?style=for-the-badge&logo=webpack"></a> <a href="https://volkovlabs.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-red?style=for-the-badge&logo=medium"></a> <a href="https://demo.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Demo%20Server-gray?style=for-the-badge&logo=codeforces"></a>  <a href="https://www.linkedin.com/company/volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://twitter.com/volkovlabs" target="_blank"></p>
 
 ## Community Plugins for Grafana
 
