@@ -12,7 +12,7 @@
 - [RSS/Atom data source](https://github.com/volkovlabs/volkovlabs-rss-datasource) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource)](https://grafana.com/grafana/plugins/volkovlabs-rss-datasource) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg?token=2W9VR0PG5N)](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource)
 
-## Private Repository Plugins for Grafana
+## Private Community Plugins for Grafana
   
 - [Environment data source](https://github.com/volkovlabs/volkovlabs-env-datasource) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg?token=2W9VR0PG5N)](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource)
