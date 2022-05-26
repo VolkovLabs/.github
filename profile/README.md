@@ -17,7 +17,7 @@
 - [Environment data source](https://github.com/volkovlabs/volkovlabs-env-datasource) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg?token=2W9VR0PG5N)](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource)
 
-- [Custom Form Panel](https://github.com/volkovlabs/volkovlabs-form-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
+- [Data Manipulation Form Panel](https://github.com/volkovlabs/volkovlabs-form-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg?token=2W9VR0PG5N)](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel)
 
 ## Install from our Private Repository
