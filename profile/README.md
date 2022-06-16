@@ -30,7 +30,7 @@ id: volkovlabs-image-panel version: 2.6.0
 id: volkovlabs-form-panel version: 1.4.0
 ```
 
-## Templates to create a new Grafana plugins
+## Development Templates for Grafana
   
 - [Abc Panel](https://github.com/volkovlabs/volkovlabs-abc-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel)
