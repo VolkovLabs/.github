@@ -56,6 +56,8 @@ The ABC Panel is a template to create a new panel plugin for Grafana.
 ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource)
 
+The ABC Data Source is a template to create a new datasource plugin for Grafana.
+
 ### [Abc Application](https://github.com/volkovlabs/volkovlabs-abc-app)
 ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-app.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-app/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-app)
