@@ -50,6 +50,8 @@ id: volkovlabs-form-panel version: 2.0.0
 ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel)
 
+The ABC Panel is a template to create a new panel plugin for Grafana.
+
 ### [Abc Data Source](https://github.com/volkovlabs/volkovlabs-abc-datasource)
 ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource)
