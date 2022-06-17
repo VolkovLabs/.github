@@ -38,10 +38,6 @@ We are constantly updating and improving our Grafana plugins. A private reposito
 
 ```bash
 $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
-id: volkovlabs-env-datasource version: 1.2.0
-id: volkovlabs-rss-datasource version: 2.0.0
-id: volkovlabs-image-panel version: 3.0.0
-id: volkovlabs-form-panel version: 2.0.0
 ```
 
 ## Development Templates for Grafana
