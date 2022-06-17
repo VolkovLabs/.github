@@ -27,14 +27,14 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 id: volkovlabs-env-datasource version: 1.2.0
 id: volkovlabs-rss-datasource version: 2.0.0
 id: volkovlabs-image-panel version: 3.0.0
-id: volkovlabs-form-panel version: 1.4.0
+id: volkovlabs-form-panel version: 2.0.0
 ```
 
 ## Development Templates for Grafana
   
 - [Abc Panel](https://github.com/volkovlabs/volkovlabs-abc-panel) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel)
-- [Abc Datasource](https://github.com/volkovlabs/volkovlabs-abc-datasource) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
+- [Abc Data Source](https://github.com/volkovlabs/volkovlabs-abc-datasource) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource)
 - [Abc Application](https://github.com/volkovlabs/volkovlabs-abc-app) ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-app.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-app/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-app)
