@@ -24,6 +24,8 @@ The RSS/Atom data source is a plugin for Grafana that retrieves RSS/Atom feeds a
 ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg?token=2W9VR0PG5N)](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource)
 
+The Environment data source is a plugin for Grafana that returns environment variables to display on your dashboard or use as Variables to retrieve data.
+
 ### [Data Manipulation Form Panel](https://github.com/volkovlabs/volkovlabs-form-panel)
 ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
 [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg?token=2W9VR0PG5N)](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel)
