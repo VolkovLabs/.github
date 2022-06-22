@@ -38,6 +38,12 @@ The Data Manipulation Form Panel is a plugin for Grafana that can be used to ins
 
 The ECharts Panel is a plugin for Grafana that allows to visualize Apache ECharts on your Grafana dashboard.
 
+### [Balena Application](https://github.com/volkovlabs/volkovlabs-balena-app)
+![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&amp;label=Star&amp;maxAge=3600)
+[![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app)
+
+The Balena Application plugin for Grafana allows to display device information and manage services using Balena Supervisor API.
+
 ## Install from our Private Repository
 
 We are constantly updating and improving our Grafana plugins. A private repository has become a part of our workflow to verify and test plugins on our demo server and projects.
