@@ -4,45 +4,16 @@
 
 <p align="center"><a href="https://volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Web-blueviolet?style=for-the-badge&logo=webpack"></a> <a href="https://volkovlabs.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=medium"></a> <a href="https://www.youtube.com/channel/UCQadniwbukI6ZmTN2oTTb-g" target="_blank"><img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube"></a> <a href="https://demo.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Demo%20Server-gray?style=for-the-badge&logo=codeforces"></a>  <a href="https://www.linkedin.com/company/volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://twitter.com/volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-Twitter-9cf?style=for-the-badge&logo=twitter"></a></p>
 
-## Public Community Plugins for Grafana
+## Plugins for Grafana
 
-### [Base64 Image/Video/Audio/PDF Panel](https://github.com/volkovlabs/volkovlabs-image-panel)
-![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel)](https://grafana.com/grafana/plugins/volkovlabs-image-panel) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel)
-
-The Base64 Image/Video/Audio/PDF Panel is a plugin for Grafana that displays raw and Base64 encoded files in PNG, JPG, GIF, MP4, WEBM, MP3, OGG, PDF formats.
-
-### [RSS/Atom Data Source](https://github.com/volkovlabs/volkovlabs-rss-datasource)
-![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource)](https://grafana.com/grafana/plugins/volkovlabs-rss-datasource) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource)
-
-The RSS/Atom data source is a plugin for Grafana that retrieves RSS/Atom feeds and allows to visualize them using Dynamic Text and other panels.
-
-## Private Community Plugins for Grafana
-  
-### [Environment Data Source](https://github.com/volkovlabs/volkovlabs-env-datasource)
-![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource)
-
-The Environment data source is a plugin for Grafana that returns environment variables to display on your dashboard or use as Variables to retrieve data.
-
-### [Data Manipulation Form Panel](https://github.com/volkovlabs/volkovlabs-form-panel)
-![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel)
-
-The Data Manipulation Form Panel is a plugin for Grafana that can be used to insert, update application data, and modify configuration directly from your Grafana dashboard.
-
-### [Apache ECharts Panel](https://github.com/volkovlabs/volkovlabs-echarts-panel)
-![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel)
-
-The ECharts Panel is a plugin for Grafana that allows to visualize Apache ECharts on your Grafana dashboard.
-
-### [Balena Application](https://github.com/volkovlabs/volkovlabs-balena-app)
-![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app)
-
-The Balena Application plugin for Grafana allows to display device information and manage services using Balena Supervisor API.
+| Plugin | Repository | Type | Labels |
+| ---- | ----- | ----- | ---- |
+| [Apache ECharts](https://github.com/volkovlabs/volkovlabs-echarts-panel) | Private | Panel | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel)
+| [Balena](https://github.com/volkovlabs/volkovlabs-balena-app) | Private | Application |  ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app)
+| [Base64 Image/Video/Audio/PDF](https://github.com/volkovlabs/volkovlabs-image-panel) | Community | Panel | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel)](https://grafana.com/grafana/plugins/volkovlabs-image-panel) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel)|
+| [Data Manipulation Form](https://github.com/volkovlabs/volkovlabs-form-panel) | Private | Panel | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel)
+|[Environment](https://github.com/volkovlabs/volkovlabs-env-datasource) | Private | Data Source | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource)
+|[RSS/Atom](https://github.com/volkovlabs/volkovlabs-rss-datasource) | Community | Data Source | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource)](https://grafana.com/grafana/plugins/volkovlabs-rss-datasource) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource)|
 
 ## Install from our Private Repository
 
@@ -54,20 +25,8 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 
 ## Development Templates for Grafana
   
-### [Abc Panel](https://github.com/volkovlabs/volkovlabs-abc-panel)
-![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-panel.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel)
-
-The ABC Panel is a template to create a new panel plugin for Grafana.
-
-### [Abc Data Source](https://github.com/volkovlabs/volkovlabs-abc-datasource)
-![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource)
-
-The ABC Data Source is a template to create a new datasource plugin for Grafana.
-
-### [Abc Application](https://github.com/volkovlabs/volkovlabs-abc-app)
-![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-app.svg?style=social&amp;label=Star&amp;maxAge=3600)
-[![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-app/branch/main/graph/badge.svg?token=15SIRGU8SX)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-app)
-
-The ABC Application is a template to create a new application plugin for Grafana.
+| Type | Labels |
+| ---- | ------ |
+| [Panel](https://github.com/volkovlabs/volkovlabs-abc-panel) | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-panel.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel)
+|[Data Source](https://github.com/volkovlabs/volkovlabs-abc-datasource) | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource/branch/main/graph/badge.svg)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource)
+|[Application](https://github.com/volkovlabs/volkovlabs-abc-app) | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-app.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-abc-app/branch/main/graph/badge.svg)](https://codecov.io/gh/volkovlabs/volkovlabs-abc-app)
