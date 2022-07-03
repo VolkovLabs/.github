@@ -15,13 +15,20 @@
 |[Environment Data Source](https://github.com/volkovlabs/volkovlabs-env-datasource) | Private | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource)
 |[RSS/Atom Data Source](https://github.com/volkovlabs/volkovlabs-rss-datasource) | Community | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource)](https://grafana.com/grafana/plugins/volkovlabs-rss-datasource) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&amp;label=Star&amp;maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource)|
 
-## Install from our Private Repository
+### Install from our Private Repository
 
 We are constantly updating and improving our Grafana plugins. A private repository has become a part of our workflow to verify and test plugins on our demo server and projects.
 
 ```bash
 $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 ```
+
+## balenaHub Projects
+  
+| Project | Labels |
+| ---- | ------ |
+| [Balena NFS Server and Client Project](https://github.com/VolkovLabs/balena-nfs) | ![Release](https://img.shields.io/github/v/release/volkovlabs/balena-nfs.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/balena-nfs.svg?style=social&amp;label=Star&amp;maxAge=3600) [![Balena](https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml/badge.svg)](https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml) [![Deploy with balena](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/balena-nfs)
+| [Balena Application](https://github.com/VolkovLabs/volkovlabs-balena-app) | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&amp;label=Star&amp;maxAge=3600) [![Balena](https://github.com/volkovlabs/volkovlabs-balena-app/actions/workflows/balena.yml/badge.svg)](https://github.com/volkovlabs/volkovlabs-balena-app/actions/workflows/balena.yml) [![Deploy with balena](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/volkovlabs-balena-app)
 
 ## Development Templates for Grafana
   
