@@ -6,23 +6,52 @@
 
 ## Plugins for Grafana
 
-<table>
+<table style='width:100%'>
 <tr>
+<td>Plugin</td>
+<td>Repository</td>
+<td>Labels</td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-echarts-panel'>Apache ECharts Panel</a></td>
+<td>Private</td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel/branch/main/graph/badge.svg'></td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena Application</a></td>
+<td>Private</td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'> <img src='https://img.shields.io/badge/Grafana-9.0.6-orange'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app/branch/main/graph/badge.svg'></td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Base64 Image/Video/Audio/PDF Panel</a></td>
+<td>Grafana Marketplace</td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/volkovlabs/volkovlabs-image-panel/branch/main/graph/badge.svg'> <a href='https://grafana.com/grafana/plugins/volkovlabs-image-panel'><img src='https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'></a></td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-form-panel'>Data Manipulation Panel</a></td>
+<td>Private</td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'></td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
+<td>Private</td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg'></td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>RSS/Atom Data Source</a></td>
+<td>Grafana Marketplace</td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'> <a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource'><img src='https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'></a></td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
+<td>Private</td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'> <img src='https://img.shields.io/badge/Grafana-9.0.6-orange'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-app/branch/main/graph/badge.svg'></td>
 </tr>
 </table>
 
-| Plugin                                                                                     | Repository          | Labels                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------ | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Apache ECharts Panel](https://github.com/volkovlabs/volkovlabs-echarts-panel)             | Private             | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel)                                                                                                                                                                                                                                                               |
-| [Balena Application](https://github.com/volkovlabs/volkovlabs-balena-app)                  | Private             | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app)                                                                                                                                                                                                                                                                           |
-| [Base64 Image/Video/Audio/PDF Panel](https://github.com/volkovlabs/volkovlabs-image-panel) | Grafana Marketplace | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600) [![codecov](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/volkovlabs/volkovlabs-image-panel) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel)](https://grafana.com/grafana/plugins/volkovlabs-image-panel)                   |
-| [Data Manipulation Panel](https://github.com/volkovlabs/volkovlabs-form-panel)             | Private             | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&label=Star&maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel)                                                                                                                                                                                                                                                                           |
-| [Environment Data Source](https://github.com/volkovlabs/volkovlabs-env-datasource)         | Private             | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource)                                                                                                                                                                                                                                                           |
-| [RSS/Atom Data Source](https://github.com/volkovlabs/volkovlabs-rss-datasource)            | Grafana Marketplace | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600) [![codecov](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg)](https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource) [![Plugin Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource)](https://grafana.com/grafana/plugins/volkovlabs-rss-datasource) |
-
 ### Install from our [Private Repository](https://volkovlabs.io/plugins/)
 
-We are constantly updating and improving our Grafana plugins. A private repository has become a part of our workflow to verify and test plugins on our demo server and projects.
+We are constantly updating and improving our Grafana plugins. A Private Repository has become a part of our workflow to verify and test plugins for our projects.
 
 ```bash
 $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
@@ -30,14 +59,14 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 
 ## balenaHub Apps
 
-<table>
+<table style='width:100%'>
 <tr>
 <td>Project</td>
 <td>Labels</td>
 </tr>
 <tr>
 <td><a href='https://github.com/VolkovLabs/balena-nfs'>Balena NFS Server and Client</a></td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/balena-nfs.svg'> <img src='https://img.shields.io/badge/Grafana-9.0.6-orange'> <img src='https://img.shields.io/github/stars/volkovlabs/balena-nfs.svg?style=social&label=Star&maxAge=3600'> <a href='https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml'><img src='https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml/badge.svg'></a> <a href='https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/balena-nfs'><img src='https://balena.io/deploy.svg'></a></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/balena-nfs.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/balena-nfs.svg?style=social&label=Star&maxAge=3600'> <a href='https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml'><img src='https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml/badge.svg'></a> <a href='https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/balena-nfs'><img src='https://balena.io/deploy.svg'></a></td>
 </tr>
 <tr>
 <td><a href='https://github.com/VolkovLabs/volkovlabs-balena-app'>Balena Application for Grafana</a></td>
@@ -47,7 +76,7 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 
 ## Development Templates for Grafana
 
-<table>
+<table style='width:100%'>
 <tr>
 <td>Template</td>
 <td>Labels</td>
