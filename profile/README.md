@@ -15,7 +15,7 @@
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-echarts-panel'>Apache ECharts Panel</a></td>
 <td>Private</td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel/branch/main/graph/badge.svg'></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg'> <img src='https://img.shields.io/badge/Grafana-9.0.6-orange'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel/branch/main/graph/badge.svg'></td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena Application</a></td>
