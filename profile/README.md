@@ -30,7 +30,7 @@
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-form-panel'>Data Manipulation Panel</a></td>
 <td>Private</td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'> <img src='https://img.shields.io/badge/Grafana-9.0.6-orange'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'></td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
