@@ -8,9 +8,9 @@
 
 <table style='width:100%'>
 <tr>
-<td>Plugin</td>
-<td>Repository</td>
-<td>Labels</td>
+<th>Plugin</th>
+<th>Repository</th>
+<th>Labels</th>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-echarts-panel'>Apache ECharts Panel</a></td>
@@ -61,16 +61,19 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 
 <table style='width:100%'>
 <tr>
-<td>Project</td>
-<td>Labels</td>
+<th>Project</th>
+<th>balena</th>
+<th>Labels</th>
 </tr>
 <tr>
 <td><a href='https://github.com/VolkovLabs/balena-nfs'>Balena NFS Server and Client</a></td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/balena-nfs.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/balena-nfs.svg?style=social&label=Star&maxAge=3600'> <a href='https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml'><img src='https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml/badge.svg'></a> <a href='https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/balena-nfs'><img src='https://balena.io/deploy.svg'></a></td>
+<td><a href='https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/balena-nfs'><img src='https://balena.io/deploy.svg'></a></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/balena-nfs.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/balena-nfs.svg?style=social&label=Star&maxAge=3600'> <a href='https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml'><img src='https://github.com/volkovlabs/balena-nfs/actions/workflows/balena.yml/badge.svg'></a></td>
 </tr>
 <tr>
 <td><a href='https://github.com/VolkovLabs/volkovlabs-balena-app'>Balena Application for Grafana</a></td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'> <img src='https://img.shields.io/badge/Grafana-9.0.6-orange'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'> <a href='https://github.com/volkovlabs/volkovlabs-balena-app/actions/workflows/balena.yml'><img src='https://github.com/volkovlabs/volkovlabs-balena-app/actions/workflows/balena.yml/badge.svg'></a> <a href='https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/volkovlabs-balena-app'><img src='https://balena.io/deploy.svg'></a></td>
+<td><a href='https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/volkovlabs-balena-app'><img src='https://balena.io/deploy.svg'></a></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'> <img src='https://img.shields.io/badge/Grafana-9.0.6-orange'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'> <a href='https://github.com/volkovlabs/volkovlabs-balena-app/actions/workflows/balena.yml'><img src='https://github.com/volkovlabs/volkovlabs-balena-app/actions/workflows/balena.yml/badge.svg'></a></td>
 </tr>
 </table>
 
@@ -78,8 +81,8 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 
 <table style='width:100%'>
 <tr>
-<td>Template</td>
-<td>Labels</td>
+<th>Template</th>
+<th>Labels</th>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Abc Panel</a></td>
