@@ -33,9 +33,9 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-form-panel'>Data Manipulation Panel</a></td>
-<td>Private</td>
+<td>Grafana Marketplace</td>
 <td><img src='https://img.shields.io/badge/-9.0.6-gray?logo=grafana'></td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'><a href='https://grafana.com/grafana/plugins/volkovlabs-form-panel'> <img src='https://img.shields.io/badge/dynamic/json?color=green&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-form-panel'></a></td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
