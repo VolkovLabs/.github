@@ -40,7 +40,7 @@
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
 <td>Private</td>
-<td><img src='https://img.shields.io/badge/-9.0.0-gray?logo=grafana'></td>
+<td><img src='https://img.shields.io/badge/-9.0.7-gray?logo=grafana'></td>
 <td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg'></td>
 </tr>
 <tr>
