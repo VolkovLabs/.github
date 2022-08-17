@@ -57,7 +57,7 @@
 </tr>
 </table>
 
-### Install from our [Private Repository](https://volkovlabs.io/plugins/)
+## [Private Repository](https://volkovlabs.io/plugins/)
 
 We are constantly updating and improving our Grafana plugins. A Private Repository has become a part of our workflow to verify and test plugins for our projects.
 
