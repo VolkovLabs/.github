@@ -52,7 +52,7 @@
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
 <td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>Docker</a></td>
-<td><img src='https://img.shields.io/badge/-9.0.6-gray?logo=grafana'></td>
+<td><img src='https://img.shields.io/badge/-9.1.0-gray?logo=grafana'></td>
 <td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-app/branch/main/graph/badge.svg'></td>
 </tr>
 </table>
