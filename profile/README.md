@@ -46,7 +46,7 @@
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>RSS/Atom Data Source</a></td>
 <td><a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource/'>Grafana Marketplace</a></td>
-<td><img src='https://img.shields.io/badge/-9.0.0-gray?logo=grafana'></td>
+<td><img src='https://img.shields.io/badge/-9.1.1-gray?logo=grafana'></td>
 <td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'> <a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'></a></td>
 </tr>
 <tr>
