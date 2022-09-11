@@ -42,19 +42,19 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
 <td><a href='https://volkovlabs.io/plugins/volkovlabs-env-datasource/'>Private</a></td>
 <td><img src='https://img.shields.io/badge/-9.1.4-gray?logo=grafana'></td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg'></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg'> <a href='https://youtube.com/playlist?list=PLPow72ygztmRCTyV2W5ghK2_5jLLsyGLc'><img src='https://img.shields.io/badge/YouTube-Playlist-red'></a></td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>RSS/Atom Data Source</a></td>
 <td><a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource/'>Grafana Marketplace</a></td>
 <td><img src='https://img.shields.io/badge/-9.1.4-gray?logo=grafana'></td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'> <a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'></a></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'> <a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'></a> <a href='https://youtube.com/playlist?list=PLPow72ygztmSGfvGdXriFE-LVuS4Glg7w'><img src='https://img.shields.io/badge/YouTube-Playlist-red'></a></td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
 <td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>Docker</a></td>
 <td><img src='https://img.shields.io/badge/-9.1.4-gray?logo=grafana'></td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-app/branch/main/graph/badge.svg'></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-app/branch/main/graph/badge.svg'> <a href='https://youtube.com/playlist?list=PLPow72ygztmTm_zY_PYqJtRYpMPpZglYC'><img src='https://img.shields.io/badge/YouTube-Playlist-red'></a></td>
 </tr>
 </table>
 
