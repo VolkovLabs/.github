@@ -22,7 +22,7 @@
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena Application</a></td>
   <td><a href='https://volkovlabs.io/plugins/volkovlabs-balena-app/'>Private</a>, <a href='https://github.com/orgs/VolkovLabs/packages/container/package/balena-app'>Docker</a></td>
-<td><img src='https://img.shields.io/badge/-9.1.0-gray?logo=grafana'></td>
+<td><img src='https://img.shields.io/badge/-9.1.4-gray?logo=grafana'></td>
 <td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app/branch/main/graph/badge.svg'></td>
 </tr>
 <tr>
