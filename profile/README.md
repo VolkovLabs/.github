@@ -77,12 +77,12 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 <tr>
 <td><a href='https://github.com/VolkovLabs/balena-nfs'>Balena NFS Server and Client</a></td>
 <td><a href='https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/balena-nfs'><img height="32px" src='https://balena.io/deploy.svg'></a></td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/balena-nfs.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/balena-nfs.svg?style=social&label=Star&maxAge=3600'></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/balena-nfs.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/balena-nfs.svg?style=social&label=Star&maxAge=3600'> <a href='https://youtu.be/_kyNSLeAT84'><img src='https://img.shields.io/badge/-Video-red?logo=youtube'></a></td>
 </tr>
 <tr>
 <td><a href='https://github.com/VolkovLabs/volkovlabs-balena-app'>Balena Application for Grafana</a></td>
 <td><a href='https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/volkovlabs/volkovlabs-balena-app'><img height="32px" src='https://balena.io/deploy.svg'></a></td>
-<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'></td>
+<td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'> <a href='https://youtu.be/5NfrVdOX0s8'><img src='https://img.shields.io/badge/-Video-red?logo=youtube'></a></td>
 </tr>
 </table>
 
