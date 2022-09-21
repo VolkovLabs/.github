@@ -16,7 +16,7 @@
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-echarts-panel'>Apache ECharts Panel</a></td>
 <td><a href='https://grafana.com/grafana/plugins/volkovlabs-echarts-panel/'>Grafana Marketplace</a></td>
-<td><img src='https://img.shields.io/badge/-9.1.4-gray?logo=grafana'></td>
+<td><img src='https://img.shields.io/badge/-9.1.6-gray?logo=grafana'></td>
 <td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel/branch/main/graph/badge.svg'> <a href='https://grafana.com/grafana/plugins/volkovlabs-echarts-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-echarts-panel'></a> <a href='https://youtube.com/playlist?list=PLPow72ygztmQHGWFqksEf3LebUfhqBfFu'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a>
 </td>
 </tr>
@@ -53,7 +53,7 @@
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
 <td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>Docker</a></td>
-<td><img src='https://img.shields.io/badge/-9.1.4-gray?logo=grafana'></td>
+<td><img src='https://img.shields.io/badge/-9.1.6-gray?logo=grafana'></td>
 <td><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'> <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'> <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-app/branch/main/graph/badge.svg'> <a href='https://youtube.com/playlist?list=PLPow72ygztmTm_zY_PYqJtRYpMPpZglYC'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
 </table>
