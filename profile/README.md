@@ -29,7 +29,7 @@
 <a href='https://github.com/VolkovLabs/volkovlabs-echarts-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg'></a>
 </td>
 <td>
-<img src='https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel/branch/main/graph/badge.svg'>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-echarts-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-echarts-panel'></a>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmQHGWFqksEf3LebUfhqBfFu'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a>
 </td>
@@ -42,7 +42,7 @@
 <a href='https://github.com/VolkovLabs/volkovlabs-balena-app/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'></a>
 </td>
 <td>
-<img src='https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app/branch/main/graph/badge.svg'>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmRdzBPeQ16cwM7ZvPbXfyHv'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@
 <a href='https://github.com/VolkovLabs/volkovlabs-image-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
 </td>
 <td>
-<img src='https://codecov.io/gh/volkovlabs/volkovlabs-image-panel/branch/main/graph/badge.svg'>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-image-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'></a>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmQjZ19D7wKHc_6VG3dCjkwo'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
@@ -65,7 +65,7 @@
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'>
 </td>
 <td>
-<img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&label=Star&maxAge=3600'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-form-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-form-panel'></a>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmRXSNBxyw0sFnnvNRY_CsSA'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
@@ -77,7 +77,7 @@
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
 </td>
 <td>
-<img src='https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg'>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmRCTyV2W5ghK2_5jLLsyGLc'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'>
 </td>
 <td>
-<img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'></a>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmSGfvGdXriFE-LVuS4Glg7w'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
@@ -100,7 +100,7 @@
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
 </td>
 <td>
-<img src='https://codecov.io/gh/VolkovLabs/volkovlabs-app/branch/main/graph/badge.svg'>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmTm_zY_PYqJtRYpMPpZglYC'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
 </table>
