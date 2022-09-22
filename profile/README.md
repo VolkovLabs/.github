@@ -61,7 +61,7 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-form-panel'>Data Manipulation Panel</a></td>
 <td><a href='https://grafana.com/grafana/plugins/volkovlabs-form-panel/'>Grafana Marketplace</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.1.4-orange?logo=grafana'>
+<img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'>
 </td>
 <td>
