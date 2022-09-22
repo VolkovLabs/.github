@@ -147,7 +147,7 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Abc Panel</a></td>
 <td>
-  <img src='https://img.shields.io/badge/toolkit-9.0.0-orange?logo=grafana'>
+  <img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg'>
 </td>
 <td>
@@ -157,7 +157,7 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-datasource'>Abc Data Source</a></td>
 <td>
-  <img src='https://img.shields.io/badge/toolkit-9.0.0-orange?logo=grafana'>
+  <img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg'>
 </td>
 <td>
@@ -166,7 +166,7 @@ $ grafana-cli --repo https://volkovlabs.io/plugins plugins list-remote
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc Application</a></td>
 <td>
-  <img src='https://img.shields.io/badge/toolkit-9.0.0-orange?logo=grafana'>
+  <img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
 </td>
 <td>
