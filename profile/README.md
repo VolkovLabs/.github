@@ -58,7 +58,7 @@
 <a href='https://youtube.com/playlist?list=PLPow72ygztmQjZ19D7wKHc_6VG3dCjkwo'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-calendar-panel'>Calendar</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-calendar-panel'>Calendar Panel</a></td>
 <td><a href='https://grafana.com/grafana/plugins/marcusolsson-calendar-panel/'>Grafana Plugins</a></td>
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
@@ -67,6 +67,18 @@
 <td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-calendar-panel.svg?style=social&label=Star&maxAge=3600'>
 <a href='https://grafana.com/grafana/plugins/marcusolsson-calendar-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-calendar-panel'></a>
+</td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-dynamictext-panel'>Dynamic Text Panel</a></td>
+<td><a href='https://grafana.com/grafana/plugins/marcusolsson-dynamictext-panel/'>Grafana Plugins</a></td>
+<td>
+<img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
+<a href='https://github.com/VolkovLabs/volkovlabs-dynamictext-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-dynamictext-panel.svg'></a>
+</td>
+<td>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-dynamictext-panel.svg?style=social&label=Star&maxAge=3600'>
+<a href='https://grafana.com/grafana/plugins/marcusolsson-dynamictext-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-dynamictext-panel'></a>
 </td>
 </tr>
 <tr>
