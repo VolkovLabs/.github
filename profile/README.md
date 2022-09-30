@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-echarts-panel'>Apache ECharts Panel</a></td>
-<td><a href='https://grafana.com/grafana/plugins/volkovlabs-echarts-panel/'>Grafana Marketplace</a></td>
+<td><a href='https://grafana.com/grafana/plugins/volkovlabs-echarts-panel/'>Grafana Plugins</a></td>
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-echarts-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg'></a>
@@ -47,7 +47,7 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Base64 Image/Video/Audio/PDF Panel</a></td>
-<td><a href='https://grafana.com/grafana/plugins/volkovlabs-image-panel/'>Grafana Marketplace</a></td>
+<td><a href='https://grafana.com/grafana/plugins/volkovlabs-image-panel/'>Grafana Plugins</a></td>
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.1.4-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-image-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
@@ -58,8 +58,20 @@
 <a href='https://youtube.com/playlist?list=PLPow72ygztmQjZ19D7wKHc_6VG3dCjkwo'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
 <tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-calendar-panel'>Calendar</a></td>
+<td><a href='https://grafana.com/grafana/plugins/marcusolsson-calendar-panel/'>Grafana Plugins</a></td>
+<td>
+<img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
+<a href='https://github.com/VolkovLabs/volkovlabs-calendar-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-calendar-panel.svg'></a>
+</td>
+<td>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-calendar-panel.svg?style=social&label=Star&maxAge=3600'>
+<a href='https://grafana.com/grafana/plugins/marcusolsson-calendar-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-calendar-panel'></a>
+</td>
+</tr>
+<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-form-panel'>Data Manipulation Panel</a></td>
-<td><a href='https://grafana.com/grafana/plugins/volkovlabs-form-panel/'>Grafana Marketplace</a></td>
+<td><a href='https://grafana.com/grafana/plugins/volkovlabs-form-panel/'>Grafana Plugins</a></td>
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'>
@@ -82,7 +94,7 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>RSS/Atom Data Source</a></td>
-<td><a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource/'>Grafana Marketplace</a></td>
+<td><a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource/'>Grafana Plugins</a></td>
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.1.4-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'>
