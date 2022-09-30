@@ -117,6 +117,18 @@
 <a href='https://youtube.com/playlist?list=PLPow72ygztmSGfvGdXriFE-LVuS4Glg7w'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
 <tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-static-datasource'>Static Data Source</a></td>
+<td><a href='https://grafana.com/grafana/plugins/marcusolsson-static-datasource/'>Grafana Plugins</a></td>
+<td>
+<img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
+<img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-static-datasource.svg'>
+</td>
+<td>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-static-datasource.svg?style=social&label=Star&maxAge=3600'>
+<a href='https://grafana.com/grafana/plugins/marcusolsson-static-datasource'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-static-datasource'></a>
+</td>
+</tr>
+<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
 <td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>Docker</a></td>
 <td>
