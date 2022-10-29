@@ -9,7 +9,7 @@
 <a href="https://volkovlabs.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=medium"></a>
 <a href="https://youtube.com/@volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=youtube"></a>
 <a href="https://live.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Live%20Server-gray?style=for-the-badge&logo=codeforces"></a> 
-<a href="https://www.linkedin.com/company/volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://twitter.com/volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-Twitter-9cf?style=for-the-badge&logo=twitter"></a>
+<a href="https://linkedin.com/company/volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://twitter.com/volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-Twitter-9cf?style=for-the-badge&logo=twitter"></a>
 </p>
 
 ## Plugins for Grafana
@@ -130,7 +130,7 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
-<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>Docker</a></td>
+<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>Docker Image</a></td>
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
