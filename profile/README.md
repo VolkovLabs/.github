@@ -132,7 +132,7 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
 <td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>Docker Image</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
+<img src='https://img.shields.io/badge/toolkit-9.2.2-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
 </td>
 <td>
