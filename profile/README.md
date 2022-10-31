@@ -120,7 +120,7 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-static-datasource'>Static Data Source</a></td>
 <td><a href='https://grafana.com/grafana/plugins/marcusolsson-static-datasource/'>Grafana Catalog</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
+<img src='https://img.shields.io/badge/toolkit-9.2.2-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-static-datasource.svg'>
 </td>
 <td>
