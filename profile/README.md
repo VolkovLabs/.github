@@ -73,7 +73,7 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-dynamictext-panel'>Dynamic Text Panel</a></td>
 <td><a href='https://grafana.com/grafana/plugins/marcusolsson-dynamictext-panel/'>Grafana Catalog</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.1.6-orange?logo=grafana'>
+<img src='https://img.shields.io/badge/toolkit-9.2.2-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-dynamictext-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-dynamictext-panel.svg'></a>
 </td>
 <td>
