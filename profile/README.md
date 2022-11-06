@@ -108,7 +108,7 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>RSS/Atom Data Source</a></td>
 <td><a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource/'>Grafana Catalog</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.1.4-orange?logo=grafana'>
+<img src='https://img.shields.io/badge/toolkit-9.2.2-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'>
 </td>
 <td>
