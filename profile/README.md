@@ -30,6 +30,7 @@
 </td>
 <td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600'>
+<img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-echarts-panel.svg'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-echarts-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-echarts-panel'></a>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmQHGWFqksEf3LebUfhqBfFu'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a>
 </td>
@@ -43,6 +44,7 @@
 </td>
 <td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'>
+<img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-balena-app.svg'>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmRdzBPeQ16cwM7ZvPbXfyHv'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
 <tr>
@@ -54,6 +56,7 @@
 </td>
 <td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'>
+<img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-image-panel.svg'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-image-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'></a>
 <a href='https://youtube.com/playlist?list=PLPow72ygztmQjZ19D7wKHc_6VG3dCjkwo'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
@@ -66,6 +69,7 @@
 </td>
 <td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-calendar-panel.svg?style=social&label=Star&maxAge=3600'>
+<img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-calendar-panel.svg'>
 <a href='https://grafana.com/grafana/plugins/marcusolsson-calendar-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-calendar-panel'></a>
 </td>
 </tr>
