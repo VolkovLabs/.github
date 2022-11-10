@@ -1,5 +1,5 @@
 <div align="center">
-<a href='https://volkovlabs.io'><img style="display: block;" src="https://github.com/VolkovLabs/.github/raw/main/halloween.png"></a>
+<a href='https://volkovlabs.io'><img style="display: block;" src="https://github.com/VolkovLabs/.github/raw/main/impossible.png"></a>
 </div>
 
 <br/>
