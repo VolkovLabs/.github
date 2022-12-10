@@ -48,7 +48,7 @@
 <a href='https://youtube.com/playlist?list=PLPow72ygztmRdzBPeQ16cwM7ZvPbXfyHv'><img src='https://img.shields.io/badge/-Playlist-red?logo=youtube'></a></td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Base64 Image/Video/Audio/PDF Panel</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Base64 Image/PDF Panel</a></td>
 <td><a href='https://grafana.com/grafana/plugins/volkovlabs-image-panel/'>Grafana Catalog</a></td>
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.2.2-orange?logo=grafana'>
