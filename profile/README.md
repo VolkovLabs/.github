@@ -48,7 +48,7 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Base64 Image/PDF Panel</a></td>
 <td><a href='https://grafana.com/grafana/plugins/volkovlabs-image-panel/'>Grafana Catalog</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.2.2-orange?logo=grafana'>
+<img src='https://img.shields.io/badge/toolkit-9.3.2-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-image-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
 </td>
 <td>
