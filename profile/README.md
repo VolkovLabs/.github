@@ -36,7 +36,7 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena Application</a></td>
 <td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/balena-app'>Docker Image</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.2.2-orange?logo=grafana'>
+<img src='https://img.shields.io/badge/toolkit-9.3.2-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-balena-app/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'></a>
 </td>
 <td>
