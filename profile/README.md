@@ -58,7 +58,7 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-calendar-panel'>Calendar Panel</a></td>
 <td><a href='https://grafana.com/grafana/plugins/marcusolsson-calendar-panel/'>Grafana Catalog</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.3.1-orange?logo=grafana'>
+<img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-calendar-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-calendar-panel.svg'></a>
 </td>
 <td>
