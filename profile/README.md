@@ -104,6 +104,17 @@
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-env-datasource.svg'>
 </tr>
 <tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-grapi-datasource'>Grafana HTTP API Data Source</a></td>
+<td><a href='https://volkovlabs.io/plugins/volkovlabs-grapi-datasource/'>Private</a></td>
+<td>
+<img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
+<img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-grapi-datasource.svg'>
+</td>
+<td>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-grapi-datasource.svg?style=social&label=Star&maxAge=3600'>
+<img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-grapi-datasource.svg'>
+</tr>
+<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>RSS/Atom Data Source</a></td>
 <td><a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource/'>Grafana Catalog</a></td>
 <td>
