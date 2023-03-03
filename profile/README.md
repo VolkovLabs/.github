@@ -5,7 +5,6 @@
   <a href="https://blog.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Blog-gray?style=for-the-badge&logo=WPExplorer"></a>
   <a href="https://docs.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Documentation-9364F4?style=for-the-badge&logo=WPExplorer"></a>
   <a href="https://youtube.com/@volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-Youtube-FF5656?style=for-the-badge&logo=youtube"></a>
-  <a href="https://www.linkedin.com/company/volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 </div>
 
@@ -15,7 +14,6 @@
 <tr>
 <th>Plugin</th>
 <th>Repository</th>
-<th>Version</th>
 <th>Labels</th>
 </tr>
 <tr>
@@ -24,23 +22,10 @@
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-echarts-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg'></a>
-</td>
-<td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-echarts-panel.svg'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-echarts-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-echarts-panel'></a>
 </td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena Application</a></td>
-<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/balena-app'>Docker Image</a></td>
-<td>
-<img src='https://img.shields.io/badge/toolkit-9.3.2-orange?logo=grafana'>
-<a href='https://github.com/VolkovLabs/volkovlabs-balena-app/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'></a>
-</td>
-<td>
-<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'>
-<img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-balena-app.svg'>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Base64 Image/PDF Panel</a></td>
@@ -48,8 +33,6 @@
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.3.2-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-image-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
-</td>
-<td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-image-panel.svg'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-image-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'></a>
@@ -60,8 +43,6 @@
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-calendar-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-calendar-panel.svg'></a>
-</td>
-<td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-calendar-panel.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-calendar-panel.svg'>
 <a href='https://grafana.com/grafana/plugins/marcusolsson-calendar-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-calendar-panel'></a>
@@ -73,8 +54,6 @@
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-dynamictext-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-dynamictext-panel.svg'></a>
-</td>
-<td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-dynamictext-panel.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-dynamictext-panel.svg'>
 <a href='https://grafana.com/grafana/plugins/marcusolsson-dynamictext-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-dynamictext-panel'></a>
@@ -86,8 +65,6 @@
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.3.1-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'>
-</td>
-<td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-form-panel.svg'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-form-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-form-panel'></a>
@@ -98,8 +75,6 @@
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.2.2-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
-</td>
-<td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-env-datasource.svg'>
 </tr>
@@ -109,8 +84,6 @@
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-grapi-datasource.svg'>
-</td>
-<td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-grapi-datasource.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-grapi-datasource.svg'>
 </tr>
@@ -120,8 +93,6 @@
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.2.2-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'>
-</td>
-<td>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-rss-datasource.svg'>
 <a href='https://grafana.com/grafana/plugins/volkovlabs-rss-datasource'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'></a>
@@ -132,8 +103,6 @@
 <td>
   <img src='https://img.shields.io/badge/toolkit-9.3.2-orange?logo=grafana'>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-static-datasource.svg'>
-</td>
-<td>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-static-datasource.svg?style=social&label=Star&maxAge=3600'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-static-datasource.svg'>
   <a href='https://grafana.com/grafana/plugins/marcusolsson-static-datasource'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-static-datasource'></a>
@@ -151,57 +120,48 @@
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
-<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>Docker Image</a></td>
-<td>
-  <img src='https://img.shields.io/badge/toolkit-9.4.2-orange?logo=grafana'>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
-</td>
-<td>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-app.svg'>
-</tr>
-</table>
-
-## Grafana Development Templates
-
-<table style='width:100%'>
-<tr>
-<th>Template</th>
-<th>Version</th>
-<th>Labels</th>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc Application</a></td>
+<td>Dev Template</td>
 <td>
   <img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
-</td>
-<td>
-  <img src='https://codecov.io/gh/volkovlabs/volkovlabs-abc-app/branch/main/graph/badge.svg'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-app.svg'>
 </td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-datasource'>Abc Data Source</a></td>
+<td>Dev Template</td>
 <td>
   <img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg'>
-</td>
-<td>
-  <img src='https://codecov.io/gh/volkovlabs/volkovlabs-abc-datasource/branch/main/graph/badge.svg'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-datasource.svg'>
 </td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Abc Panel</a></td>
+<td>Dev Template</td>
 <td>
   <img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg'>
-</td>
-<td>
-  <img src='https://codecov.io/gh/volkovlabs/volkovlabs-abc-panel/branch/main/graph/badge.svg'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-panel.svg'>
 </td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena Application</a></td>
+<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/balena-app'>Docker Image</a></td>
+<td>
+<img src='https://img.shields.io/badge/toolkit-9.3.2-orange?logo=grafana'>
+<a href='https://github.com/VolkovLabs/volkovlabs-balena-app/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'></a>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'>
+<img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-balena-app.svg'>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
+<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>Docker Image</a></td>
+<td>
+  <img src='https://img.shields.io/badge/toolkit-9.4.2-orange?logo=grafana'>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-app.svg'>
 </tr>
 </table>
