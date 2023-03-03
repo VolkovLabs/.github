@@ -116,7 +116,6 @@
 <tr>
 <th>Project</th>
 <th>Repository</th>
-<th>Version</th>
 <th>Labels</th>
 </tr>
 <tr>
