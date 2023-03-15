@@ -82,7 +82,7 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-grapi-datasource'>Grafana HTTP API Data Source</a></td>
 <td><a href='https://volkovlabs.io/plugins/volkovlabs-grapi-datasource/'>Private</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.3.6-orange?logo=grafana'>
+<img src='https://img.shields.io/badge/toolkit-9.4.3-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-grapi-datasource.svg'>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-grapi-datasource.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-grapi-datasource.svg'>
