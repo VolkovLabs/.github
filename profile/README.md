@@ -80,12 +80,13 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-grapi-datasource'>Grafana HTTP API Data Source</a></td>
-<td><a href='https://volkovlabs.io/plugins/volkovlabs-grapi-datasource/'>Private</a></td>
+<td><a href='https://grafana.com/grafana/plugins/volkovlabs-grapi-datasource/'>Grafana Catalog</a></td>
 <td>
 <img src='https://img.shields.io/badge/toolkit-9.4.3-orange?logo=grafana'>
 <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-grapi-datasource.svg'>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-grapi-datasource.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-grapi-datasource.svg'>
+<a href='https://grafana.com/grafana/plugins/volkovlabs-grapi-datasource'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-grapi-datasource'></a>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>RSS/Atom Data Source</a></td>
