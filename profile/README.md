@@ -39,7 +39,6 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-calendar-panel'>Calendar Panel</a></td>
 <td><a href='https://grafana.com/grafana/plugins/marcusolsson-calendar-panel/'>Grafana Catalog</a></td>
 <td>
-<img src='https://img.shields.io/badge/toolkit-9.4.3-orange?logo=grafana'>
 <a href='https://github.com/VolkovLabs/volkovlabs-calendar-panel/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-calendar-panel.svg'></a>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-calendar-panel.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-calendar-panel.svg'>
