@@ -112,7 +112,7 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc Application</a></td>
-<td>Dev Template</td>
+<td>GitHub Template</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-app.svg'>
@@ -120,7 +120,7 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-datasource'>Abc Data Source</a></td>
-<td>Dev Template</td>
+<td>GitHub Template</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-datasource.svg'>
@@ -128,7 +128,7 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Abc Panel</a></td>
-<td>Dev Template</td>
+<td>GitHub Template</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-panel.svg'>
