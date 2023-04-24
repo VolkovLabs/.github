@@ -111,7 +111,7 @@
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Apache ECharts Lite Panel</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-echarts-lite'>Apache ECharts Lite Panel</a></td>
 <td>Premium</td>
 <td>
   <img src='https://img.shields.io/static/v1?label=release&message=1.0.0&color=blue'>
