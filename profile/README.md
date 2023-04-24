@@ -106,32 +106,15 @@
 
 <table style='width:100%'>
 <tr>
-<th>Project</th>
+<th>Plugin</th>
 <th>Repository</th>
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc Application</a></td>
-<td>GitHub Template</td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Apache ECharts Lite Panel</a></td>
+<td>Premium</td>
 <td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-app.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-datasource'>Abc Data Source</a></td>
-<td>GitHub Template</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-datasource.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Abc Panel</a></td>
-<td>GitHub Template</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-panel.svg'>
+  <img src='https://img.shields.io/static/v1?label=release&message=1.0.0&color=blue'>
 </td>
 </tr>
 <tr>
@@ -149,5 +132,39 @@
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-app.svg'>
+</tr>
+</table>
+
+### Templates
+
+<table style='width:100%'>
+<tr>
+<th>Template</th>
+<th>Repository</th>
+<th>Labels</th>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Application</a></td>
+<td>GitHub Template</td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-app.svg'>
+</td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-abc-datasource'>Data Source</a></td>
+<td>GitHub Template</td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-datasource.svg'>
+</td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Panel</a></td>
+<td>GitHub Template</td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-panel.svg'>
+</td>
 </tr>
 </table>
