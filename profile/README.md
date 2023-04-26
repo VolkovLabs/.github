@@ -65,14 +65,6 @@
 <a href='https://grafana.com/grafana/plugins/volkovlabs-form-panel'><img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-form-panel'></a>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
-<td>Private</td>
-<td>
-<img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
-<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'>
-<img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-env-datasource.svg'>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-grapi-datasource'>Grafana HTTP API Data Source</a></td>
 <td><a href='https://grafana.com/grafana/plugins/volkovlabs-grapi-datasource/'>Grafana Catalog</a></td>
 <td>
@@ -128,6 +120,14 @@ The Premium Tier includes [GitHub Discussions](https://github.com/orgs/VolkovLab
 <a href='https://github.com/VolkovLabs/volkovlabs-balena-app/releases'><img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'></a>
 <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'>
 <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-balena-app.svg'>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
+<td>Private</td>
+<td>
+<img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
+<img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'>
+<img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-env-datasource.svg'>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
