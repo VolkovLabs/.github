@@ -8,7 +8,7 @@
 </p>
 </div>
 
-## Grafana Plugins
+## Community Plugins
 
 <table style='width:100%'>
 <tr>
