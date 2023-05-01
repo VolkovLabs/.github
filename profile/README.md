@@ -98,7 +98,7 @@ Volkov Labs provides Standard (free) and Premium tier support for maintained Gra
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc Application Template</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc Application</a></td>
 <td>GitHub Template</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
