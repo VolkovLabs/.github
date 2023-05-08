@@ -87,10 +87,6 @@
 
 ## Development
 
-Volkov Labs provides Standard (free) and Premium tier support for maintained Grafana plugins.
-
-- The Premium Tier includes [GitHub Discussions](https://github.com/orgs/VolkovLabs/discussions) and access to Premium repositories.
-
 <table style='width:100%'>
 <tr>
 <th>Plugin</th>
