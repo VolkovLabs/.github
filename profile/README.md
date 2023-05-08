@@ -124,7 +124,8 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-echarts-lite'>Apache ECharts Lite Panel</a></td>
 <td>Open-Source</td>
 <td>
-  <img src='https://img.shields.io/static/v1?label=release&message=1.0.0&color=blue'>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-lite.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-lite.svg?style=social&label=Star&maxAge=3600'>
 </td>
 </tr>
 <tr>
