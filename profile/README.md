@@ -98,12 +98,10 @@
 <table style='width:100%'>
 <tr>
 <th>Plugin</th>
-<th>Description</th>
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc Application</a></td>
-<td>GitHub Template</td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc Application [GitHub Template]</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-app.svg?style=social&label=Star&maxAge=3600'>
@@ -112,8 +110,7 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-datasource'>Abc Data Source</a></td>
-<td>GitHub Template</td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-abc-datasource'>Abc Data Source [GitHub Template]</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-datasource.svg?style=social&label=Star&maxAge=3600'>
@@ -122,8 +119,7 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Abc Panel</a></td>
-<td>GitHub Template</td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Abc Panel [GitHub Template]</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-panel.svg?style=social&label=Star&maxAge=3600'>
@@ -133,7 +129,6 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-echarts-lite'>Apache ECharts Lite Panel</a></td>
-<td>Open-Source</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-lite.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-lite.svg?style=social&label=Star&maxAge=3600'>
@@ -141,7 +136,6 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena Application</a></td>
-<td>Open-Source</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'></a>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'>
@@ -150,7 +144,6 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
-<td>Open-Source</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'>
@@ -159,7 +152,6 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
-<td>Open-Source</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'>
