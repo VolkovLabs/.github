@@ -105,7 +105,6 @@
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-app.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-app.svg'>
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-abc-app/branch/main/graph/badge.svg'>
 </td>
 </tr>
@@ -114,7 +113,6 @@
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-datasource.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-datasource.svg'>
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-abc-datasource/branch/main/graph/badge.svg'>
 </td>
 </tr>
@@ -123,7 +121,6 @@
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-panel.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-abc-panel.svg'>
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-abc-panel/branch/main/graph/badge.svg'>
 </td>
 </tr>
@@ -132,6 +129,7 @@
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-lite.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-lite.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-lite/branch/main/graph/badge.svg'>
 </td>
 </tr>
 <tr>
@@ -139,7 +137,6 @@
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'></a>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-balena-app.svg'>
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app/branch/main/graph/badge.svg'>
 </tr>
 <tr>
@@ -147,7 +144,6 @@
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-env-datasource.svg'>
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg'>
 </tr>
 <tr>
@@ -155,7 +151,6 @@
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-app.svg'>
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-app/branch/main/graph/badge.svg'>
 </tr>
 </table>
