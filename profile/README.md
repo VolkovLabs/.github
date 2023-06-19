@@ -91,6 +91,15 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-static-datasource/branch/main/graph/badge.svg'>
 </td>
 </tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-variable-panel'>Variable Panel</a></td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-variable-panel.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-variable-panel.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-variable-panel.svg'>
+  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-variable-panel/branch/main/graph/badge.svg'>
+</td>
+</tr>
 </table>
 
 ## Development
