@@ -110,7 +110,7 @@
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc Application [GitHub Template]</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc App [GitHub Template]</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-app.svg?style=social&label=Star&maxAge=3600'>
@@ -142,7 +142,7 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena Application</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena App</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'></a>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'>
@@ -156,7 +156,7 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs Application</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs App</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'>
