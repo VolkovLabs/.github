@@ -157,6 +157,12 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg'>
 </tr>
 <tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-timeseries-panel'>Time Series Panel</a></td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-timeseries-panel.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-timeseries-panel.svg?style=social&label=Star&maxAge=3600'>
+</tr>
+<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs App</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
