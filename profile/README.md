@@ -181,7 +181,7 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-bi-app'>Business Intelligence App</a></td>
-<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>bi-app</a></td>
+<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/bi-app'>bi-app</a></td>
 <td>
   <img src='https://img.shields.io/badge/release-1.1.0-blue'>
 </td>
