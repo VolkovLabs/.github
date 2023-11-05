@@ -181,22 +181,23 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-bi-app'>Business Intelligence App</a></td>
-<td>N/A</td>
+<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/app'>bi-app</a></td>
 <td>
-  <img src='https://img.shields.io/badge/release-1.0.0-blue'>
+  <img src='https://img.shields.io/badge/release-1.1.0-blue'>
 </td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-bi-engine'>Business Intelligence Engine</a></td>
-<td>N/A</td>
+<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/bi-engine'>bi-engine</a></td>
 <td>
-  <img src='https://img.shields.io/badge/release-1.0.0-blue'>
+  <img src='https://img.shields.io/badge/release-1.1.0-blue'>
 </td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-bi-toolkit'>Business Intelligence Toolkit</a></td>
-<td>N/A</td>
+<td>-</td>
 <td>
+  <img src='https://img.shields.io/badge/release-1.1.0-blue'>
 </td>
 </tr>
 </table>
