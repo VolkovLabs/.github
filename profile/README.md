@@ -181,7 +181,8 @@
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-bi-toolkit'>Business Intelligence</a></td>
-<td>-</td>
+<td><a href='https://github.com/VolkovLabs/volkovlabs-bi-toolkit/blob/main/docker-compose.yml'>Compose</a>
+</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-bi-toolkit.svg'>
 </td>
