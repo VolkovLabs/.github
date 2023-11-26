@@ -170,35 +170,3 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-app/branch/main/graph/badge.svg'>
 </tr>
 </table>
-
-## Business Intelligence for Grafana
-
-<table style='width:100%'>
-<tr>
-<th>Repository</th>
-<th>Docker</th>
-<th>Labels</th>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-bi-toolkit'>Business Intelligence</a></td>
-<td><a href='https://github.com/VolkovLabs/volkovlabs-bi-toolkit/blob/main/docker-compose.yml'>Compose</a>
-</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-bi-toolkit.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-bi-app'>Business Intelligence App</a></td>
-<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/bi-app'>bi-app</a></td>
-<td>
-  <img src='https://img.shields.io/badge/release-1.2.0-blue'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-bi-engine'>Business Intelligence Engine</a></td>
-<td><a href='https://github.com/orgs/VolkovLabs/packages/container/package/bi-engine'>bi-engine</a></td>
-<td>
-  <img src='https://img.shields.io/badge/release-1.2.0-blue'>
-</td>
-</tr>
-</table>
