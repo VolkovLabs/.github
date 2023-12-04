@@ -135,21 +135,6 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-echarts-lite'>Apache ECharts Lite Panel</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-lite.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-lite.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-lite/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-balena-app'>Balena App</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-balena-app.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-balena-app.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-balena-app/branch/main/graph/badge.svg'>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
