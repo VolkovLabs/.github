@@ -146,7 +146,7 @@
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-bi-grafana.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-bi-grafana.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-echarts-panel.svg'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-bi-grafana.svg'>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-timeseries-panel'>Time Series Panel</a></td>
