@@ -8,7 +8,7 @@
 </p>
 </div>
 
-## Plugins
+## Open-Source Plugins
 
 <table style='width:100%'>
 <tr>
@@ -118,35 +118,17 @@
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-app'>Abc App [GitHub Template]</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-app.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-app.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-abc-app/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-datasource'>Abc Data Source [GitHub Template]</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-datasource.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-datasource.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-abc-datasource/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-abc-panel'>Abc Panel [GitHub Template]</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-abc-panel.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-abc-panel.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-abc-panel/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-bi-grafana'>Business Intelligence for Grafana</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-bi-grafana.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-bi-grafana.svg?style=social&label=Star&maxAge=3600'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-bi-grafana.svg'>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-packages'>Packages</a></td>
+<td>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-packages.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-packages.svg'>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-timeseries-panel'>Time Series Panel</a></td>
