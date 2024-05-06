@@ -8,7 +8,7 @@
 </p>
 </div>
 
-## Open-Source Plugins
+## Business Suite for Grafana
 
 <table style='width:100%'>
 <tr>
@@ -64,6 +64,34 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'>
 </tr>
 <tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>Business News Data Source</a></td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-rss-datasource.svg'>
+  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'>
+  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-variable-panel'>Business Variable Panel</a></td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-variable-panel.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-variable-panel.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-variable-panel.svg'>
+  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-variable-panel'>
+  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-variable-panel/branch/main/graph/badge.svg'>
+</td>
+</tr>
+</table>
+
+## Open-Source Plugins
+
+<table style='width:100%'>
+<tr>
+<th>Plugin</th>
+<th>Labels</th>
+</tr>
+<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
@@ -80,15 +108,6 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-grapi-datasource/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>Business News Data Source</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-rss-datasource.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-static-datasource'>Static Data Source</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-static-datasource.svg'>
@@ -96,16 +115,6 @@
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-static-datasource.svg'>
   <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-static-datasource'>
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-static-datasource/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-variable-panel'>Business Variable Panel</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-variable-panel.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-variable-panel.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-variable-panel.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-variable-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-variable-panel/branch/main/graph/badge.svg'>
 </td>
 </tr>
 </table>
