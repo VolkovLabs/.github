@@ -82,15 +82,6 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-variable-panel/branch/main/graph/badge.svg'>
 </td>
 </tr>
-</table>
-
-## Open-Source Plugins
-
-<table style='width:100%'>
-<tr>
-<th>Plugin</th>
-<th>Labels</th>
-</tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
 <td>
