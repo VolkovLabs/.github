@@ -16,15 +16,6 @@
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Business Image/PDF Panel</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-image-panel.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-image-panel/branch/main/graph/badge.svg'>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-calendar-panel'>Business Calendar Panel</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-calendar-panel.svg'>
@@ -45,16 +36,6 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-dynamictext-panel'>Business Text Panel</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-dynamictext-panel.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-dynamictext-panel.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-dynamictext-panel.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-dynamictext-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-dynamictext-panel/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-form-panel'>Business Forms Panel</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'>
@@ -64,6 +45,15 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'>
 </tr>
 <tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Business Image/PDF Panel</a></td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-image-panel.svg'>
+  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'>
+  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-image-panel/branch/main/graph/badge.svg'>
+</tr>
+<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>Business News Data Source</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'>
@@ -71,6 +61,16 @@
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-rss-datasource.svg'>
   <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'>
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-dynamictext-panel'>Business Text Panel</a></td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-dynamictext-panel.svg'></a>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-dynamictext-panel.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-dynamictext-panel.svg'>
+  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-dynamictext-panel'>
+  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-dynamictext-panel/branch/main/graph/badge.svg'>
+</td>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-variable-panel'>Business Variable Panel</a></td>
