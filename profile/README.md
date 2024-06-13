@@ -45,15 +45,6 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Business Image/PDF Panel</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-image-panel.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-image-panel/branch/main/graph/badge.svg'>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-static-datasource'>Business Input Data Source</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-static-datasource.svg'>
@@ -62,6 +53,15 @@
   <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-static-datasource'>
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-static-datasource/branch/main/graph/badge.svg'>
 </td>
+</tr>
+<tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Business Media Panel</a></td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-image-panel.svg'>
+  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'>
+  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-image-panel/branch/main/graph/badge.svg'>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>Business News Data Source</a></td>
