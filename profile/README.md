@@ -111,7 +111,7 @@
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-bi-grafana'>Business Intelligence for Grafana</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-bi-grafana'>Business Intelligence</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-bi-grafana.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-bi-grafana.svg?style=social&label=Star&maxAge=3600'>
