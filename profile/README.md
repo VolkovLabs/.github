@@ -143,7 +143,7 @@
   <img src='https://img.shields.io/github/stars/volkovlabs/grafana-sms-webhook.svg?style=social&label=Star&maxAge=3600'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Volkov Labs App</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Business Suite App</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'>
