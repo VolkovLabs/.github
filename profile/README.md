@@ -13,10 +13,12 @@
 <table style='width:100%'>
 <tr>
 <th>Plugin</th>
+<th>Type</th>
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-calendar-panel'>Business Calendar Panel</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-calendar-panel'>Business Calendar</a></td>
+<td>Panel</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-calendar-panel.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-calendar-panel.svg?style=social&label=Star&maxAge=3600'>
@@ -26,7 +28,8 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-echarts-panel'>Business Charts Panel</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-echarts-panel'>Business Charts</a></td>
+<td>Panel</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg'></a>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600'>
@@ -36,7 +39,8 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-form-panel'>Business Forms Panel</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-form-panel'>Business Forms</a></td>
+<td>Panel</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-form-panel.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-form-panel.svg?style=social&label=Star&maxAge=3600'>
@@ -45,7 +49,8 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-static-datasource'>Business Input Data Source</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-static-datasource'>Business Input</a></td>
+<td>Data Source</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-static-datasource.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-static-datasource.svg?style=social&label=Star&maxAge=3600'>
@@ -55,7 +60,8 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Business Media Panel</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Business Media</a></td>
+<td>Panel</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'>
@@ -64,7 +70,8 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-image-panel/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>Business News Data Source</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>Business News</a></td>
+<td>Data Source</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'>
@@ -73,7 +80,8 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-grapi-datasource'>Business Satellite Data Source</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-grapi-datasource'>Business Satellite</a></td>
+<td>Data Source</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-grapi-datasource.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-grapi-datasource.svg?style=social&label=Star&maxAge=3600'>
@@ -82,7 +90,8 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-grapi-datasource/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-dynamictext-panel'>Business Text Panel</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-dynamictext-panel'>Business Text</a></td>
+<td>Panel</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-dynamictext-panel.svg'></a>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-dynamictext-panel.svg?style=social&label=Star&maxAge=3600'>
@@ -92,7 +101,8 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-variable-panel'>Business Variable Panel</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-variable-panel'>Business Variable</a></td>
+<td>Panel</td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-variable-panel.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-variable-panel.svg?style=social&label=Star&maxAge=3600'>
