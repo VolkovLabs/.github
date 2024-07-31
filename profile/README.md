@@ -90,6 +90,16 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-grapi-datasource/branch/main/graph/badge.svg'>
 </tr>
 <tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-table-panel'>Business Table</a></td>
+<td>Panel</td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-table-panel.svg'></a>
+  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-table-panel.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-table-panel.svg'>
+  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-table-panel/branch/main/graph/badge.svg'>
+</td>
+</tr>
+<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-dynamictext-panel'>Business Text</a></td>
 <td>Panel</td>
 <td>
@@ -140,12 +150,6 @@
 <td>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-packages.svg?style=social&label=Star&maxAge=3600'>
   <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-packages.svg'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-timeseries-panel'>Time Series Panel</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-timeseries-panel.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-timeseries-panel.svg?style=social&label=Star&maxAge=3600'>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/grafana-sms-webhook'>Twilio SMS Webhook</a></td>
