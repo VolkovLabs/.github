@@ -28,14 +28,14 @@
 </td>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-echarts-panel'>Business Charts</a></td>
+<td><a href='https://github.com/volkovlabs/business-charts'>Business Charts</a></td>
 <td>Panel</td>
 <td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-echarts-panel.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-echarts-panel.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-echarts-panel.svg'>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/business-charts.svg'></a>
+  <img src='https://img.shields.io/github/stars/volkovlabs/business-charts.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/business-charts.svg'>
   <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-echarts-panel'></a>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-echarts-panel/branch/main/graph/badge.svg'>
+  <img src='https://codecov.io/gh/VolkovLabs/business-charts/branch/main/graph/badge.svg'>
 </td>
 </tr>
 <tr>
