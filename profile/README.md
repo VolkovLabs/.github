@@ -49,14 +49,14 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-form-panel/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-static-datasource'>Business Input</a></td>
+<td><a href='https://github.com/volkovlabs/business-input'>Business Input</a></td>
 <td>Data Source</td>
 <td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-static-datasource.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-static-datasource.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-static-datasource.svg'>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/business-input.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/business-input.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/business-input.svg'>
   <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-static-datasource'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-static-datasource/branch/main/graph/badge.svg'>
+  <img src='https://codecov.io/gh/VolkovLabs/business-input/branch/main/graph/badge.svg'>
 </td>
 </tr>
 <tr>
