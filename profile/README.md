@@ -90,13 +90,13 @@
   <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-grapi-datasource/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-table-panel'>Business Table</a></td>
+<td><a href='https://github.com/volkovlabs/business-table'>Business Table</a></td>
 <td>Panel</td>
 <td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-table-panel.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-table-panel.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-table-panel.svg'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-table-panel/branch/main/graph/badge.svg'>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/business-table.svg'></a>
+  <img src='https://img.shields.io/github/stars/volkovlabs/business-table.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/business-table.svg'>
+  <img src='https://codecov.io/gh/VolkovLabs/business-table/branch/main/graph/badge.svg'>
 </td>
 </tr>
 <tr>
