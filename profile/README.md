@@ -131,11 +131,11 @@
 <th>Labels</th>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-bi-grafana'>Business Intelligence</a></td>
+<td><a href='https://github.com/volkovlabs/business-intelligence'>Business Intelligence</a></td>
 <td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-bi-grafana.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-bi-grafana.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-bi-grafana.svg'>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/business-intelligence.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/business-intelligence.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/business-intelligence.svg'>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
