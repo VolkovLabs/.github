@@ -63,21 +63,21 @@
 <td><a href='https://github.com/volkovlabs/volkovlabs-image-panel'>Business Media</a></td>
 <td>Panel</td>
 <td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-image-panel.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-image-panel.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-image-panel.svg'>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/business-media.svg'></a>
+  <img src='https://img.shields.io/github/stars/volkovlabs/business-media.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/business-media.svg'>
   <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-image-panel/branch/main/graph/badge.svg'>
+  <img src='https://codecov.io/gh/VolkovLabs/business-media/branch/main/graph/badge.svg'>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-rss-datasource'>Business News</a></td>
 <td>Data Source</td>
 <td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-rss-datasource.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-rss-datasource.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-rss-datasource.svg'>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/business-news.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/business-news.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://img.shields.io/github/issues/volkovlabs/business-news.svg'>
   <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-rss-datasource/branch/main/graph/badge.svg'>
+  <img src='https://codecov.io/gh/VolkovLabs/business-news/branch/main/graph/badge.svg'>
 </tr>
 <tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-grapi-datasource'>Business Satellite</a></td>
