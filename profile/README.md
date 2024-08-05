@@ -138,6 +138,13 @@
   <img src='https://img.shields.io/github/issues/volkovlabs/business-intelligence.svg'>
 </tr>
 <tr>
+<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Business Suite</a></td>
+<td>
+  <img src='https://img.shields.io/github/v/release/volkovlabs/business-suite.svg'>
+  <img src='https://img.shields.io/github/stars/volkovlabs/business-suite.svg?style=social&label=Star&maxAge=3600'>
+  <img src='https://codecov.io/gh/VolkovLabs/business-suite/branch/main/graph/badge.svg'>
+</tr>
+<tr>
 <td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
@@ -156,12 +163,5 @@
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/grafana-sms-webhook.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/grafana-sms-webhook.svg?style=social&label=Star&maxAge=3600'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Business Suite App</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-app.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-app.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-app/branch/main/graph/badge.svg'>
 </tr>
 </table>
