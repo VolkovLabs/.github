@@ -138,7 +138,7 @@
   <img src='https://img.shields.io/github/issues/volkovlabs/business-intelligence.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Business Suite</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-app'>Business Suite App</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/business-suite.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/business-suite.svg?style=social&label=Star&maxAge=3600'>
