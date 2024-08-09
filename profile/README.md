@@ -1,5 +1,5 @@
 <div align="center">
-<a href='https://volkovlabs.io'><img style="display: block;" src="https://github.com/VolkovLabs/.github/blob/main/business.png"></a>
+<a href='https://volkovlabs.io'><img style="display: block;" src="https://github.com/VolkovLabs/.github/blob/main/honeycomb.png"></a>
 
 <p>
   <a href="https://blog.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Blog-gray?style=for-the-badge&logo=WPExplorer"></a>
