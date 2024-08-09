@@ -12,11 +12,6 @@
 
 <table style='width:100%'>
 <tr>
-<th>Plugin</th>
-<th>Type</th>
-<th>Labels</th>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/business-calendar'>Business Calendar</a></td>
 <td>Panel</td>
 <td>
@@ -127,10 +122,6 @@
 
 <table style='width:100%'>
 <tr>
-<th>Plugin</th>
-<th>Labels</th>
-</tr>
-<tr>
 <td><a href='https://github.com/volkovlabs/business-intelligence'>Business Intelligence</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/business-intelligence.svg'>
@@ -145,7 +136,7 @@
   <img src='https://codecov.io/gh/VolkovLabs/business-suite/branch/main/graph/badge.svg'>
 </tr>
 <tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment Data Source</a></td>
+<td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment data source</a></td>
 <td>
   <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
   <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'>
