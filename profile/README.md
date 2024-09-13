@@ -91,6 +91,7 @@
   <img src='https://img.shields.io/github/v/release/volkovlabs/business-table.svg'></a>
   <img src='https://img.shields.io/github/stars/volkovlabs/business-table.svg?style=social&label=Star&maxAge=3600'>
   <img src='https://img.shields.io/github/issues/volkovlabs/business-table.svg'>
+  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-table-panel'>
   <img src='https://codecov.io/gh/VolkovLabs/business-table/branch/main/graph/badge.svg'>
 </td>
 </tr>
