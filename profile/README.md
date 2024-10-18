@@ -10,7 +10,7 @@
 
 Open source is at the core of Volkov Labs. We are passionate about the idea of sharing and exchanging ideas without boundaries.
 
-Over the past three years, we have spearheaded a significant open-source initiative, developing ten plugins for Grafana with a staggering 24 millions total downloads. Our commitment to this cause is evident in our best-in-class documentation, a dedicated YouTube channel, and a robust mechanism for addressing community queries.
+Over the past three years, we have spearheaded a significant open-source initiative, developing ten plugins for Grafana with a staggering 24 millions total downloads. Our commitment to this cause is evident in our best-in-class documentation, a dedicated YouTube channel, and a robust mechanism for [addressing community queries](https://release.volkovlabs.io).
 
 ## Enterprise Support
 
