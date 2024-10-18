@@ -12,6 +12,8 @@ Open source is at the core of Volkov Labs. We are passionate about the idea of s
 
 Over the past three years, we have spearheaded a significant open-source initiative, developing ten plugins for Grafana with a staggering 24 millions total downloads. Our commitment to this cause is evident in our best-in-class documentation, a dedicated YouTube channel, and a robust mechanism for addressing community queries.
 
+## Enterprise Support
+
 With the [Business Suite Enterprise](https://volkovlabs.io/pricing), you're not just getting a product, you're getting a complete support system. You'll have a designated support team ready to tackle any issues. You can contact us via Zendesk, receive priority in feature requests and bug fixes, meet with us for in-person consultation, and get access to the Business Intelligence.
 
 ## Business Suite for Grafana
