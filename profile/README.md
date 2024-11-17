@@ -10,11 +10,19 @@
 
 ## Open source is at the core of Volkov Labs
 
-We are passionate about the idea of sharing and exchanging ideas without boundaries. Over the past three years, we have spearheaded a significant open-source initiative, developing ten plugins for Grafana with a staggering 24 millions total downloads. Our commitment to this cause is evident in our best-in-class documentation, a dedicated YouTube channel, and a robust mechanism for [addressing community queries](https://release.volkovlabs.io).
+We are passionate about the idea of sharing and exchanging ideas without boundaries. Over the past three years, we have spearheaded a significant open-source initiative, developing ten plugins for Grafana with a staggering 26 millions total downloads.
+
+[![Install Business Suite plugins in Cloud, OSS, Enterprise | Open source community plugins](https://raw.githubusercontent.com/volkovlabs/.github/main/started.png)](https://youtu.be/1qYzHfPXJF8)
+
+Our commitment to this cause is evident in our best-in-class documentation, a dedicated YouTube channel, and a robust mechanism for [addressing community queries](https://release.volkovlabs.io).
 
 ## Enterprise Support
 
-With the [Business Suite Enterprise](https://volkovlabs.io/pricing), you're not just getting a product, you're getting a complete support system. You'll have a designated support team ready to tackle any issues. You can contact us via Zendesk, receive priority in feature requests and bug fixes, meet with us for in-person consultation, and get access to the Business Intelligence.
+With the [Business Suite Enterprise](https://volkovlabs.io/pricing), you're not just getting a product, you're getting a complete support system. You'll have a designated support team ready to tackle any issues.
+
+[![Business Suite Enterprise for efficient production environments](https://raw.githubusercontent.com/volkovlabs/.github/main/enterprise.png)](https://youtu.be/XDhyEXqa6KA)
+
+You can contact us via Zendesk, receive priority in feature requests and bug fixes, meet with us for in-person consultation, and get access to the Business Intelligence.
 
 ## Business Suite for Grafana
 
