@@ -22,7 +22,7 @@ With the [Business Suite Enterprise](https://volkovlabs.io/pricing), you're not 
 
 [![Business Suite Enterprise for efficient production environments](https://raw.githubusercontent.com/volkovlabs/.github/main/enterprise.png)](https://youtu.be/XDhyEXqa6KA)
 
-You can contact us via Zendesk, receive priority in feature requests and bug fixes, meet with us for in-person consultation, and get access to the Business Intelligence.
+You can contact us via Zendesk, receive priority in feature requests and bug fixes, meet with us for in-person consultation.
 
 ## Business Suite for Grafana
 
