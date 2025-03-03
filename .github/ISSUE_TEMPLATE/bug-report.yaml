@@ -52,11 +52,11 @@ body:
       label: Environment
       description: "Details about your setup."
       value: |
-      - **Plugin Version:** [e.g., 2.5.0]
-      - **Grafana Version:** [e.g., 11.0.0]
-      - **Datasource(s):** [e.g., Prometheus, MySQL]
-      - **Operating System:** [e.g., Ubuntu 20.04] (optional)
-      - **Browser:** [e.g., Chrome 120] (optional)
+        1. **Plugin Version**: [e.g., 2.5.0]
+        2. **Grafana Version:** [e.g., 11.0.0]
+        3. **Datasource(s):** [e.g., Prometheus, MySQL]
+        4. **Operating System:** [e.g., Ubuntu 20.04] (optional)
+        5. **Browser:** [e.g., Chrome 120] (optional)
     validations:
       required: true
 
