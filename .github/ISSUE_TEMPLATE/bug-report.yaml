@@ -72,7 +72,7 @@ body:
   - type: textarea
     attributes:
       label: Details if this work before.
-      description: "Specify the grafana and plugin versions where it worked"
+      description: "Specify the Grafana and plugin versions where it worked"
     validations:
       required: false
 
