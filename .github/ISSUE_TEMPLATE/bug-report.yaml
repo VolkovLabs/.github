@@ -14,9 +14,9 @@ body:
       value: |
         #
 
-  - type: Summary
+  - type: textarea
     attributes:
-      label: What happened?
+      label: Summary
       description: "**Hot Tip:** A clear and concise description of the bug (e.g., 'Dashboard crashes when selecting XYZ option'). Record your screen and attach it here."
     validations:
       required: true
