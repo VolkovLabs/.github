@@ -1,0 +1,52 @@
+name: Question
+description: Ask a question about this project
+title: "Short description of question"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for using this template! We will do our best to assist you promptly.
+
+        Please try to give your issue a good title.
+
+  - type: markdown
+    attributes:
+      value: |
+        #
+
+  - type: textarea
+    attributes:
+      label: Your Question
+      description: "A clear and concise question about the project (e.g., How do I configure XYZ feature?)."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Context and Details
+      description: "Help us understand your situation by including:"
+      placeholder: |
+        - **What you're trying to achieve:** A brief description of your goal.
+        - **What you've tried so far:** Any solutions or troubleshooting steps you've attempted.
+        - **Additional information:** Logs, error messages, screenshots, or other relevant details (please use code blocks ``` for logs or code snippets).
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Environment (if applicable)
+      description: "Provide details about your setup to help us pinpoint the issue:"
+      placeholder: |
+        - **Plugin Version:** [e.g., 2.5.0]
+        - **Grafana Version:** [e.g., 11.0.0]
+        - **Datasource(s):** [e.g., Prometheus, MySQL]
+        - **Operating System:** [e.g., Ubuntu 20.04, Windows 10] (optional)
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Anything Else?
+      description: "Add any other details you think might be helpful (optional)."
+    validations:
+      required: false
