@@ -1,175 +1,66 @@
 <div align="center">
-<a href='https://volkovlabs.io'><img style="display: block;" src="https://github.com/VolkovLabs/.github/blob/main/honeycomb.png"></a>
+  <a href="https://volkovlabs.io"><img src="https://github.com/VolkovLabs/.github/blob/main/honeycomb.png" alt="Volkov Labs Logo" style="display: block;"></a>
 
-<p>
-  <a href="https://blog.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Blog-gray?style=for-the-badge&logo=WPExplorer"></a>
-  <a href="https://docs.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Documentation-9364F4?style=for-the-badge&logo=WPExplorer"></a>
-  <a href="https://youtube.com/@volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-Youtube-FF5656?style=for-the-badge&logo=youtube"></a>
-</p>
+  <p>
+    <a href="https://blog.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Blog-gray?style=for-the-badge&logo=WPExplorer" alt="Blog"></a>
+    <a href="https://docs.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Documentation-9364F4?style=for-the-badge&logo=WPExplorer" alt="Docs"></a>
+    <a href="https://youtube.com/@volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF5656?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  </p>
 </div>
 
-## Open source is at the core of Volkov Labs
+# Welcome to Volkov Labs
 
-We are passionate about the idea of sharing and exchanging ideas without boundaries. Over the past three years, we have spearheaded a significant open-source initiative, developing ten plugins for Grafana with a staggering 30 millions total downloads.
+We’re Volkov Labs—a team dedicated to empowering Grafana users with innovative, open-source solutions. Our mission is to break down barriers, share knowledge, and drive analytics excellence.
 
-[![Install Business Suite plugins in Cloud, OSS, Enterprise | Open source community plugins](https://raw.githubusercontent.com/volkovlabs/.github/main/started.png)](https://youtu.be/1qYzHfPXJF8)
+## Our Open-Source Journey
 
-Our commitment to this cause is evident in our best-in-class documentation, a dedicated YouTube channel, and a robust mechanism for [addressing community queries](https://release.volkovlabs.io).
+Open source is our heartbeat. Over the past three years, we’ve built 10 Grafana plugins, amassing **30 million downloads**. From panels to data sources, our work is backed by top-tier [documentation](https://docs.volkovlabs.io), a vibrant [YouTube channel](https://youtube.com/@volkovlabs), and a responsive community support using GitHub Issues.
 
-## Enterprise Support
+Watch how to get started:  
+[![Install Business Suite Plugins in Cloud, OSS, Enterprise](https://raw.githubusercontent.com/volkovlabs/.github/main/started.png)](https://youtu.be/1qYzHfPXJF8)
 
-With the [Business Suite Enterprise](https://volkovlabs.io/pricing), you're not just getting a product, you're getting a complete support system. You'll have a designated support team ready to tackle any issues.
+## Business Suite Enterprise
 
-[![Business Suite Enterprise for efficient production environments](https://raw.githubusercontent.com/volkovlabs/.github/main/enterprise.png)](https://youtu.be/XDhyEXqa6KA)
+With [Business Suite Enterprise](https://volkovlabs.io/pricing), you gain more than tools—you get a partnership. Enjoy:
 
-You can contact us via Zendesk, receive priority in feature requests and bug fixes, meet with us for in-person consultation.
+- **Priority Support**: Zendesk tickets via our [Support Portal](https://volkovlabs.zendesk.com/hc/en-us).
+- **Dedicated Team**: Fast-tracked feature requests and bug fixes.
+- **Consultation**: In-person meetings to align with your needs.
+
+See it in action:  
+[![Business Suite Enterprise for Production](https://raw.githubusercontent.com/volkovlabs/.github/main/enterprise.png)](https://youtu.be/XDhyEXqa6KA)
 
 ## Business Suite for Grafana
 
-<table style='width:100%'>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-calendar'>Business Calendar</a></td>
-<td>Panel</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-calendar.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-calendar.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-calendar.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-calendar-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-calendar/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-charts'>Business Charts</a></td>
-<td>Panel</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-charts.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-charts.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-charts.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-echarts-panel'></a>
-  <img src='https://codecov.io/gh/VolkovLabs/business-charts/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-forms'>Business Forms</a></td>
-<td>Panel</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-forms.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-forms.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-forms.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-form-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-forms/branch/main/graph/badge.svg'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-input'>Business Input</a></td>
-<td>Data Source</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-input.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-input.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-input.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-static-datasource'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-input/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-media'>Business Media</a></td>
-<td>Panel</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-media.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-media.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-media.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-media/branch/main/graph/badge.svg'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-news'>Business News</a></td>
-<td>Data Source</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-news.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-news.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-news.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-news/branch/main/graph/badge.svg'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-satellite'>Business Satellite</a></td>
-<td>Data Source</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-satellite.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-satellite.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-satellite.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-grapi-datasource'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-satellite/branch/main/graph/badge.svg'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-table'>Business Table</a></td>
-<td>Panel</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-table.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-table.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-table.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-table-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-table/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-text'>Business Text</a></td>
-<td>Panel</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-text.svg'></a>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-text.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-text.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-dynamictext-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-text/branch/main/graph/badge.svg'>
-</td>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-variable'>Business Variable</a></td>
-<td>Panel</td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-variable.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-variable.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-variable.svg'>
-  <img src='https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-variable-panel'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-variable/branch/main/graph/badge.svg'>
-</td>
-</tr>
-</table>
+Explore our core plugins and Enterprise subsciption enhancing Grafana:
 
-## Projects
+| Plugin                                                                       | Type         | Stats                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Business Calendar](https://github.com/volkovlabs/business-calendar)         | Panel        | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-calendar.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-calendar.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-calendar.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-calendar-panel) ![Coverage](https://codecov.io/gh/VolkovLabs/business-calendar/branch/main/graph/badge.svg)     |
+| [Business Charts](https://github.com/volkovlabs/business-charts)             | Panel        | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-charts.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-charts.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-charts.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-echarts-panel) ![Coverage](https://codecov.io/gh/VolkovLabs/business-charts/branch/main/graph/badge.svg)                |
+| [Business Forms](https://github.com/volkovlabs/business-forms)               | Panel        | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-forms.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-forms.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-forms.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-form-panel) ![Coverage](https://codecov.io/gh/VolkovLabs/business-forms/branch/main/graph/badge.svg)                       |
+| [Business Input](https://github.com/volkovlabs/business-input)               | Data Source  | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-input.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-input.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-input.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-static-datasource) ![Coverage](https://codecov.io/gh/VolkovLabs/business-input/branch/main/graph/badge.svg)              |
+| [Business Intelligence](https://github.com/volkovlabs/business-intelligence) | Subscription | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-intelligence.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-intelligence.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-intelligence.svg)                                                                                                                                                                                                                                                                       |
+| [Business Media](https://github.com/volkovlabs/business-media)               | Panel        | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-media.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-media.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-media.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-image-panel) ![Coverage](https://codecov.io/gh/VolkovLabs/business-media/branch/main/graph/badge.svg)                      |
+| [Business News](https://github.com/volkovlabs/business-news)                 | Data Source  | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-news.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-news.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-news.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-rss-datasource) ![Coverage](https://codecov.io/gh/VolkovLabs/business-news/branch/main/graph/badge.svg)                       |
+| [Business Satellite](https://github.com/volkovlabs/business-satellite)       | Data Source  | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-satellite.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-satellite.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-satellite.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-grapi-datasource) ![Coverage](https://codecov.io/gh/VolkovLabs/business-satellite/branch/main/graph/badge.svg) |
+| [Business Table](https://github.com/volkovlabs/business-table)               | Panel        | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-table.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-table.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-table.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-table-panel) ![Coverage](https://codecov.io/gh/VolkovLabs/business-table/branch/main/graph/badge.svg)                      |
+| [Business Text](https://github.com/volkovlabs/business-text)                 | Panel        | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-text.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-text.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-text.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fmarcusolsson-dynamictext-panel) ![Coverage](https://codecov.io/gh/VolkovLabs/business-text/branch/main/graph/badge.svg)                  |
+| [Business Variable](https://github.com/volkovlabs/business-variable)         | Panel        | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-variable.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-variable.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-variable.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-variable-panel) ![Coverage](https://codecov.io/gh/VolkovLabs/business-variable/branch/main/graph/badge.svg)       |
 
-<table style='width:100%'>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-intelligence'>Business Intelligence</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-intelligence.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-intelligence.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/business-intelligence.svg'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/business-app'>Business App</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/business-app.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/business-app.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://codecov.io/gh/VolkovLabs/business-app/branch/main/graph/badge.svg'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-env-datasource'>Environment data source</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-env-datasource.svg'>
-  <img src='https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/volkovlabs-packages'>Packages</a></td>
-<td>
-  <img src='https://img.shields.io/github/stars/volkovlabs/volkovlabs-packages.svg?style=social&label=Star&maxAge=3600'>
-  <img src='https://img.shields.io/github/issues/volkovlabs/volkovlabs-packages.svg'>
-</tr>
-<tr>
-<td><a href='https://github.com/volkovlabs/grafana-sms-webhook'>Twilio SMS Webhook</a></td>
-<td>
-  <img src='https://img.shields.io/github/v/release/volkovlabs/grafana-sms-webhook.svg'>
-  <img src='https://img.shields.io/github/stars/volkovlabs/grafana-sms-webhook.svg?style=social&label=Star&maxAge=3600'>
-</tr>
-</table>
+## Additional Projects
+
+Discover more tools and initiatives:
+
+| Project                                                                            | Stats                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Business App](https://github.com/volkovlabs/business-app)                         | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-app.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/business-app.svg?style=social&label=Star&maxAge=3600) ![Coverage](https://codecov.io/gh/VolkovLabs/business-app/branch/main/graph/badge.svg)                                                                                                                                 |
+| [Environment Data Source](https://github.com/volkovlabs/volkovlabs-env-datasource) | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs-env-datasource.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-env-datasource.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/volkovlabs-env-datasource.svg) ![Coverage](https://codecov.io/gh/VolkovLabs/volkovlabs-env-datasource/branch/main/graph/badge.svg) |
+| [Packages](https://github.com/volkovlabs/volkovlabs-packages)                      | ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-packages.svg?style=social&label=Star&maxAge=3600) ![Issues](https://img.shields.io/github/issues/volkovlabs/volkovlabs-packages.svg)                                                                                                                                                                                                              |
+| [Twilio SMS Webhook](https://github.com/volkovlabs/grafana-sms-webhook)            | ![Release](https://img.shields.io/github/v/release/volkovlabs/grafana-sms-webhook.svg) ![Stars](https://img.shields.io/github/stars/volkovlabs/grafana-sms-webhook.svg?style=social&label=Star&maxAge=3600)                                                                                                                                                                                                          |
+
+## Get Involved
+
+- **Explore**: Dive into our [docs](https://docs.volkovlabs.io) or [blog](https://blog.volkovlabs.io).
+- **Support**: Open-source queries via [GitHub](https://github.com/VolkovLabs) or Enterprise via [Zendesk](https://volkovlabs.zendesk.com/hc/en-us).
+- **Connect**: Star our repos, join us on [YouTube](https://youtube.com/@volkovlabs), or share ideas—we’d love to hear from you!
