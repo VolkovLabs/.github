@@ -1,56 +1,91 @@
 name: Suggest a Feature
-description: Suggest an idea for this project
-title: "Short description of feature"
+description: Suggest an idea or enhancement for this project
+title: "[Feature Request]: Short description of the feature"
+labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for reporting this issue! We will look into it and respond as soon as possible.
-
-        Please try to give your issue a good title.
-
-  - type: markdown
-    attributes:
-      value: |
-        #
+        Thank you for taking the time to suggest a feature! We value your input and will review your request as soon as possible.  
+        To help us understand your idea better, please fill out the sections below with as much detail as possible. A clear and concise description will help us prioritize and implement your suggestion.
 
   - type: textarea
+    id: problem-statement
     attributes:
-      label: Why Is This Needed?
-      description: "Describe the problem this feature would solve or the use case it addresses."
+      label: Problem or Use Case
+      description: "Describe the problem this feature would solve or the use case it addresses. Why is this feature needed?"
       placeholder: |
-        - What challenge are you facing without this feature?
-        - How would it improve your experience?
+        - What challenge or limitation are you facing without this feature?
+        - How does this impact your workflow or experience?
+        - What is the desired outcome or benefit?
     validations:
       required: true
 
   - type: textarea
+    id: proposed-solution
     attributes:
-      label: What Would You Like to Be Added?
-      description: "Provide a clear and concise description of the feature or enhancement."
+      label: Proposed Feature or Solution
+      description: "Provide a clear and concise description of the feature or enhancement you’d like to see."
       placeholder: |
-        - What should it do?
-        - Include any specific functionality or behavior you envision (e.g., new UI element, API support).
+        - What should this feature do?
+        - Describe the specific functionality or behavior (e.g., new UI element, API endpoint, configuration option).
+        - If possible, include examples of how this feature might work or look.
     validations:
       required: true
 
-  - type: textarea
+  - type: dropdown
+    id: target-audience
     attributes:
-      label: Who Is This Feature For?
-      description: "Explain the target audience for this feature.."
-      placeholder: |
-        - What type of user would benefit (e.g., developers, admins, end-users)?
-        - How broadly do you think it would be used?
+      label: Target Audience
+      description: "Who would benefit from this feature?"
+      options:
+        - End-users
+        - Developers
+        - Administrators
+        - Other (please specify in Additional Context)
+      multiple: true
+    validations:
+      required: true
+
+  - type: input
+    id: priority-impact
+    attributes:
+      label: Priority or Impact
+      description: "How critical is this feature to your workflow? (Optional)"
+      placeholder: "e.g., High (blocks my work), Medium (would improve efficiency), Low (nice to have)"
     validations:
       required: false
 
   - type: textarea
+    id: alternatives
     attributes:
-      label: Additional Context (Optional)
-      description: "Add any extra details, such as:"
+      label: Alternatives or Workarounds
+      description: "Are there any current workarounds or alternative solutions you’re using to address this need? (Optional)"
       placeholder: |
-        - Examples from other tools/projects with similar features.
-        - Mockups, sketches, or screenshots (if applicable).
-        - Relevant workflows or scenarios.
+        - Describe any temporary solutions or tools you’re using.
+        - Explain why these alternatives are insufficient.
     validations:
       required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context or Supporting Materials
+      description: "Add any extra details or resources to support your request. (Optional)"
+      placeholder: |
+        - Examples or links to similar features in other projects/tools.
+        - Mockups, sketches, diagrams, or screenshots (you can attach files or link to them).
+        - Relevant workflows, scenarios, or user stories.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: guidelines
+    attributes:
+      label: Submission Guidelines
+      description: "Please confirm the following before submitting your feature request."
+      options:
+        - label: I have searched for existing issues to ensure this feature hasn’t already been requested.
+          required: true
+        - label: I have provided as much detail as possible to explain my request.
+          required: true
