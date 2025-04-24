@@ -1,34 +1,33 @@
 name: Question
 description: Ask a question about this project
-title: "Short description of question"
+title: "[Question]: Brief description of your question"
+labels: ["question"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for using this template! We will do our best to assist you promptly.
-
-        Please try to give your issue a good title.
-
-  - type: markdown
-    attributes:
-      value: |
-        #
+        Thank you for reaching out with your question! We're happy to help. Before posting, please:
+        - Check the [documentation](https://volkovlabs.io) or [YouTube Channel](https://youtube.com/@volkovlabs) for answers.
+        - Search for similar issues or questions in the repository to avoid duplicates.
+        We'll do our best to assist you promptly!
 
   - type: textarea
     attributes:
       label: Your Question
-      description: "A clear and concise question about the project (e.g., How do I configure XYZ feature?)."
+      description: "Ask a clear and concise question about the project (e.g., How do I configure XYZ feature?)."
+      placeholder: "Example: How can I set up custom alerts in the XYZ plugin?"
     validations:
       required: true
 
   - type: textarea
     attributes:
       label: Context and Details
-      description: "Help us understand your situation by including:"
+      description: "Help us understand your situation by providing the following details:"
       placeholder: |
-        - **What you're trying to achieve:** A brief description of your goal.
-        - **What you've tried so far:** Any solutions or troubleshooting steps you've attempted.
-        - **Additional information:** Logs, error messages, screenshots, or other relevant details (please use code blocks ``` for logs or code snippets).
+        - **What you're trying to achieve:** (e.g., I want to integrate this plugin with Prometheus to monitor metrics.)
+        - **What you've tried so far:** (e.g., I followed the setup guide but encountered an error.)
+        - **Additional information:** (e.g., Error message: `Connection failed`. Logs or screenshots attached below.)
+        *Please use code blocks (```) for logs or code snippets.*
     validations:
       required: true
 
@@ -37,16 +36,23 @@ body:
       label: Environment (if applicable)
       description: "Provide details about your setup to help us pinpoint the issue:"
       placeholder: |
-        - **Plugin Version:** [e.g., 2.5.0]
-        - **Grafana Version:** [e.g., 11.0.0]
-        - **Datasource(s):** [e.g., Prometheus, MySQL]
-        - **Operating System:** [e.g., Ubuntu 20.04, Windows 10] (optional)
+        - **Plugin Version:** (e.g., 2.5.0)
+        - **Grafana Version:** (e.g., 11.0.0)
+        - **Datasource(s):** (e.g., Prometheus, MySQL)
+        - **Operating System:** (e.g., Ubuntu 20.04, Windows 10)
+        *Leave blank if not applicable.*
     validations:
       required: false
 
   - type: textarea
     attributes:
-      label: Anything Else?
-      description: "Add any other details you think might be helpful (optional)."
+      label: Additional Information (Optional)
+      description: "Add any other details, thoughts, or context that might be helpful."
+      placeholder: "Example: I'm new to Grafana and might be missing something obvious. Any pointers to tutorials would be appreciated!"
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **Note:** If your question is urgent or complex, consider joining [Business Suite Enterprise](https://volkovlabs.io/pricing) for faster assistance.

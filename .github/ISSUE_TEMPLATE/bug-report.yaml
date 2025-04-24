@@ -1,84 +1,123 @@
 name: New Bug Report
-description: File a bug report
-title: "Short description of bug"
+description: File a bug report to help us improve
+title: "[Bug]: Short description of the issue"
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for reporting this issue! We will look into it and respond as soon as possible.
+        Thank you for taking the time to report this issue! We’ll investigate it as soon as possible. To help us resolve this quickly, please provide as much detail as possible and follow the guidelines below.
 
-        Please try to give your issue a good title.
-
-  - type: markdown
-    attributes:
-      value: |
-        #
+        **Note:** A clear and concise title helps us prioritize and address issues faster (e.g., "[Bug]: Dashboard crashes on XYZ selection").
 
   - type: textarea
+    id: summary
     attributes:
       label: Summary
-      description: "**Hot Tip:** A clear and concise description of the bug (e.g., 'Dashboard crashes when selecting XYZ option'). Record your screen and attach it here."
+      description: "A brief description of the bug. What is the issue? Where does it occur? (e.g., 'Dashboard crashes when selecting XYZ option'). **Tip:** Attach a screen recording or screenshot if possible."
+      placeholder: "Summarize the bug in 1-2 sentences..."
     validations:
       required: true
 
   - type: textarea
+    id: reproduction
     attributes:
-      label: How do we reproduce it?
-      description: "Provide detailed steps to replicate the issue. **Hot Tip:** Attach a screen recording, screenshot, or log file (use ``` for logs) to illustrate the issue."
-      placeholder: "Steps to reproduce..."
+      label: Steps to Reproduce
+      description: "Provide clear, detailed steps to replicate the issue. This helps us identify the root cause. **Tip:** Include screenshots, screen recordings, or logs (use ``` for code/logs)."
+      placeholder: |
+        1. Go to...
+        2. Click on...
+        3. Observe...
       value: |
-        1. [e.g., Go to the Dashboards page]
+        1. [e.g., Navigate to the Dashboards page]
         2. [e.g., Click the XYZ button]
         3. [e.g., Select option ABC]
     validations:
       required: true
 
   - type: textarea
+    id: expected-behavior
     attributes:
-      label: Expected Result
-      description: "Describe what you expected to happen (e.g., The dashboard should load without errors)."
+      label: Expected Behavior
+      description: "What did you expect to happen after performing the steps above? (e.g., 'The dashboard should load without errors')."
+      placeholder: "I expected..."
     validations:
       required: true
 
   - type: textarea
+    id: actual-behavior
     attributes:
-      label: Actual Result
-      description: "Describe what actually happened."
+      label: Actual Behavior
+      description: "What actually happened? Describe the issue or error in detail. **Tip:** Include error messages or logs if applicable (use ``` for formatting)."
+      placeholder: "Instead, I saw..."
     validations:
       required: true
 
   - type: textarea
+    id: environment
     attributes:
-      label: Environment
-      description: "Details about your setup."
+      label: Environment Details
+      description: "Provide information about your setup to help us replicate the issue."
       value: |
-        1. **Plugin Version**: [e.g., 2.5.0]
-        2. **Grafana Version:** [e.g., 11.0.0]
-        3. **Datasource(s):** [e.g., Prometheus, MySQL]
-        4. **Operating System:** [e.g., Ubuntu 20.04] (optional)
-        5. **Browser:** [e.g., Chrome 120] (optional)
+        - **Plugin Version**: [e.g., 2.5.0]
+        - **Grafana Version**: [e.g., 11.0.0]
+        - **Datasource(s)**: [e.g., Prometheus, MySQL]
+        - **Operating System**: [e.g., Ubuntu 20.04] (optional)
+        - **Browser**: [e.g., Chrome 120] (optional)
+        - **Deployment Type**: [e.g., Docker, Kubernetes, Standalone] (optional)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: "How critical is this issue to your workflow?"
+      options:
+        - Low (Minor issue, workaround available)
+        - Medium (Affects functionality but not critical)
+        - High (Major feature unusable, no workaround)
+        - Critical (Blocks core functionality or causes data loss)
     validations:
       required: true
 
   - type: checkboxes
+    id: previously-working
     attributes:
-      label: "Did this work before?"
+      label: "Did this work in a previous version?"
       options:
-        - label: "Yes"
+        - label: "Yes, it worked before"
           required: false
-        - label: "No"
+        - label: "No, it never worked"
+          required: false
+        - label: "Not sure"
           required: false
 
   - type: textarea
+    id: previous-version-details
     attributes:
-      label: Details if this work before.
-      description: "Specify the Grafana and plugin versions where it worked"
+      label: Details of Previous Working Version (if applicable)
+      description: "If this worked before, specify the Grafana and plugin versions where it functioned correctly."
+      placeholder: "e.g., Worked in Grafana 10.2.0 with Plugin 2.3.1"
     validations:
       required: false
 
   - type: textarea
+    id: additional-context
     attributes:
-      label: Additional Context (Optional).
-      description: "Any extra details that might help, such as: Recent changes (e.g., upgrades, config edits), Frequency of the issue (e.g., always, intermittent)."
+      label: Additional Context (Optional)
+      description: "Provide any extra information that might help, such as recent changes (e.g., upgrades, config edits), frequency of the issue (e.g., always, intermittent), or related issues."
+      placeholder: "Any other relevant details..."
     validations:
       required: false
+
+  - type: checkboxes
+    id: guidelines
+    attributes:
+      label: Confirmation
+      description: "Please confirm the following before submitting."
+      options:
+        - label: "I have searched for existing issues and confirmed this is not a duplicate."
+          required: true
+        - label: "I have provided all required information to the best of my ability."
+          required: true
