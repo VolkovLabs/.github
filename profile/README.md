@@ -19,7 +19,8 @@ Open source is at the core of what we do. Over the past three years, we’ve dev
 - 🎥 Engaging [YouTube tutorials](https://youtube.com/@volkovlabs)
 - 🛠️ Active community support via [GitHub Issues](https://github.com/VolkovLabs)
 
-**Get started with our plugins:**
+## Getting Started
+
 [![Install Business Suite Plugins in Cloud, OSS, Enterprise](https://raw.githubusercontent.com/volkovlabs/.github/main/started.png)](https://youtu.be/1qYzHfPXJF8)
 
 ## 🏢 Business Suite Enterprise
