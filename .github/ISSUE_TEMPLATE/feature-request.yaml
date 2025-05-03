@@ -47,12 +47,15 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: priority-impact
     attributes:
       label: Priority or Impact
       description: "How critical is this feature to your workflow? (Optional)"
-      placeholder: "e.g., High (blocks my work), Medium (would improve efficiency), Low (nice to have)"
+      options:
+        - High (blocks my work)
+        - Medium (would improve efficiency)
+        - Low (nice to have)
     validations:
       required: false
 
