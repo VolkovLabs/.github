@@ -17,7 +17,7 @@ Open source is our foundation. Over the past 3 years, we've created **11 Grafana
 
 - 📚 Comprehensive [Documentation](https://docs.volkovlabs.io)
 - 🎥 In-depth [YouTube Tutorials](https://youtube.com/@volkovlabs)
-- 🛠️ Active [GitHub Community Support](https://github.com/VolkovLabs)
+- 🛠️ Active GitHub Community Support
 
 ## 🏢 Business Suite Enterprise
 
