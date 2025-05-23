@@ -19,10 +19,6 @@ Open source is our foundation. Over the past 3 years, we've created **11 Grafana
 - 🎥 In-depth [YouTube Tutorials](https://youtube.com/@volkovlabs)
 - 🛠️ Active [GitHub Community Support](https://github.com/VolkovLabs)
 
-## 🎬 Getting Started
-
-[![Install Business Suite Plugins in Cloud, OSS, Enterprise](https://raw.githubusercontent.com/volkovlabs/.github/main/started.png)](https://youtu.be/1qYzHfPXJF8)
-
 ## 🏢 Business Suite Enterprise
 
 With [Business Suite Enterprise](https://volkovlabs.io/pricing), you’re not just getting tools—you’re gaining a partner. Key benefits include:
