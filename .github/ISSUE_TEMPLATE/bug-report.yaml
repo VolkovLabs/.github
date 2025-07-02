@@ -1,7 +1,7 @@
 name: New Bug Report
 description: File a bug report to help us improve
 title: "[Bug]: Short description of the issue"
-labels: ["bug"]
+type: Bug
 body:
   - type: markdown
     attributes:
