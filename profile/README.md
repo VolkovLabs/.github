@@ -53,7 +53,7 @@ We’re thrilled to connect with you! Here’s how to get involved:
 
 - **Explore**: Dive into our [Documentation](https://docs.volkovlabs.io) or [Blog](https://blog.volkovlabs.io) for insights and updates.
 - **Support**: Have questions? Reach out on [Zendesk](https://volkovlabs.zendesk.com/hc/en-us) for Enterprise support.
-- **Engage**: Star our repositories ⭐, subscribe to our [YouTube Channel](https://youtube.com/@volkovlabs), or share your ideas—we’re listening!
+- **Engage**: Star our repositories ⭐, subscribe to our [YouTube Channel](https://youtube.com/@volkovlabs) and share your ideas—we’re listening!
 
 <div align="center">
   <p><strong>Let’s build the future of Grafana together! 💡</strong></p>
