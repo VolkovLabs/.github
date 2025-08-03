@@ -44,8 +44,6 @@ Discover our flagship plugins and Enterprise subscription designed to elevate yo
 | [Documentation](https://github.com/volkovlabs/volkovlabs.io)         | Docs        | ![Release](https://img.shields.io/github/v/release/volkovlabs/volkovlabs.io.svg?label=)     | ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs.io.svg?style=social&label=Star)                                                                                                                                                                                                                                                                      |
 | [Packages](https://github.com/volkovlabs/volkovlabs-packages)        | NPM         | -                                                                                           | ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-packages.svg?style=social&label=Star)                                                                                                                                                                                                                                                                |
 
-Explore the full suite of plugins and learn more by visiting our [official plugin page](https://volkovlabs.io/plugins/).
-
 ## 🤝 Join Our Community
 
 We’re thrilled to connect with you! Here’s how to get involved:
