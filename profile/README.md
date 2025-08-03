@@ -4,7 +4,7 @@ We’re a passionate team dedicated to supercharging Grafana with innovative, op
 
 ## 🌍 Our Open-Source Impact
 
-Over the past 3 years, we've created **10+ Grafana plugins**, amassing **40 million downloads** globally. From dynamic panels to powerful data sources, we support our community with:
+Over the past 3 years, we've created **10+ Grafana Community plugins**, amassing **40 million downloads** globally. From dynamic panels to powerful data sources, we support our community with:
 
 - 📚 Comprehensive [Documentation](https://docs.volkovlabs.io)
 - 🎥 In-depth [YouTube Tutorials](https://youtube.com/@volkovlabs)
@@ -27,7 +27,7 @@ The **Business Suite for Grafana** is a curated collection of open-source plugin
 - **Comprehensive Documentation**: Detailed guides and examples to get started quickly.
 - **Video Tutorials**: Step-by-step visual instructions for better understanding.
 
-Discover our flagship plugins and Enterprise subscription designed to elevate your Grafana experience:
+Discover our flagship plugins and technology designed to elevate your Grafana experience:
 
 | Component                                                            | Type        | Release                                                                                     | Stats                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
