@@ -4,19 +4,14 @@ We’re a passionate team dedicated to supercharging Grafana with innovative, op
 
 ## 🌍 Our Open-Source Impact
 
-Over the past 3 years, we've created **10+ Grafana Community plugins**, amassing **40 million downloads** globally. From dynamic panels to powerful data sources, we support our community with:
+Over the past 4 years, we've created **10+ Grafana Community plugins**, amassing **40+ million downloads** globally. From dynamic panels to powerful data sources, we support our community with:
 
 - 📚 Comprehensive [Documentation](https://docs.volkovlabs.io)
 - 🎥 In-depth [YouTube Tutorials](https://youtube.com/@volkovlabs)
-- 🛠️ Active GitHub Community Support
+- 🛠️ ~~Active GitHub Community Support~~
 
 <div align="center">
   <a href="https://volkovlabs.io"><img src="https://github.com/VolkovLabs/.github/blob/main/business.png" alt="Business Suite" style="display: block;"></a>
-  <p>
-    <a href="https://blog.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Blog-gray?style=for-the-badge&logo=WPExplorer" alt="Blog"></a>
-    <a href="https://docs.volkovlabs.io" target="_blank"><img src="https://img.shields.io/badge/-Documentation-9364F4?style=for-the-badge&logo=WPExplorer" alt="Docs"></a>
-    <a href="https://youtube.com/@volkovlabs" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF5656?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  </p>
 </div>
 
 ## Business Suite for Grafana
@@ -42,15 +37,3 @@ Discover our flagship plugins and technology designed to elevate your Grafana ex
 | [Business Variable](https://github.com/volkovlabs/business-variable) | Panel       | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-variable.svg?label=) | ![Stars](https://img.shields.io/github/stars/volkovlabs/business-variable.svg?style=social&label=Star) ![Issues](https://img.shields.io/github/issues/volkovlabs/business-variable.svg) ![Downloads](https://img.shields.io/badge/dynamic/json?color=9cf&label=downloads&query=%24.downloads&url=https%3A%2F%2Fgrafana.com%2Fapi%2Fplugins%2Fvolkovlabs-variable-panel) |
 | [Customization](https://github.com/volkovlabs/business-custom)       | Docker      | ![Release](https://img.shields.io/github/v/release/volkovlabs/business-custom.svg?label=)   | ![Stars](https://img.shields.io/github/stars/volkovlabs/business-custom.svg?style=social&label=Star)                                                                                                                                                                                                                                                                    |
 | [Packages](https://github.com/volkovlabs/volkovlabs-packages)        | NPM         | -                                                                                           | ![Stars](https://img.shields.io/github/stars/volkovlabs/volkovlabs-packages.svg?style=social&label=Star)                                                                                                                                                                                                                                                                |
-
-## 🤝 Join Our Community
-
-We’re thrilled to connect with you! Here’s how to get involved:
-
-- **Explore**: Dive into our [Documentation](https://docs.volkovlabs.io) or [Blog](https://blog.volkovlabs.io) for insights and updates.
-- **Support**: Have questions? Reach out on [Zendesk](https://volkovlabs.zendesk.com/hc/en-us) for Enterprise support.
-- **Engage**: Star our repositories ⭐, subscribe to our [YouTube Channel](https://youtube.com/@volkovlabs) and share your ideas—we’re listening!
-
-<div align="center">
-  <p><strong>Let’s build the future of Grafana together! 💡</strong></p>
-</div>
