@@ -1,6 +1,8 @@
 # 🚀 Welcome to Volkov Labs
 
-We’re a passionate team dedicated to supercharging Grafana with innovative, open-source and Enterprise solutions. Our mission is to break down barriers, share knowledge, and drive analytics excellence for everyone.
+Following our acquisition, Volkov Labs has officially ceased operations as of September 26, 2025. We are no longer accepting feedback, support requests, or partnership inquiries. The Business Suite for Grafana repositories have been archived on our GitHub organization, and no further development or support will be provided.
+
+We are deeply grateful for the incredible support from our community and partners over the past four years.
 
 ## 🌍 Our Open-Source Impact
 
