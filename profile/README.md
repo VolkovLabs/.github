@@ -18,7 +18,7 @@ Over the past 4 years, we've created **10+ Grafana Community plugins**, amassing
 
 ## Business Suite for Grafana
 
-The **Business Suite for Grafana** is a curated collection of open-source plugins created and actively maintained by [Volkov Labs](https://volkovlabs.io/). Our goal is to address the most common business needs by providing:
+The **Business Suite for Grafana** is a curated collection of open-source plugins created and ~~actively maintained~~ by [Volkov Labs](https://volkovlabs.io/). Our goal is to address the most common business needs by providing:
 
 - **Intuitive Interfaces**: User-friendly designs for seamless interaction.
 - **Comprehensive Documentation**: Detailed guides and examples to get started quickly.
