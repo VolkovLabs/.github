@@ -1,6 +1,6 @@
-# 🚀 Welcome to Volkov Labs
+# Following our acquisition, Volkov Labs has officially ceased operations as of September 26, 2025.
 
-Following our acquisition, Volkov Labs has officially ceased operations as of September 26, 2025. We are no longer accepting feedback, support requests, or partnership inquiries. The Business Suite for Grafana repositories have been archived on our GitHub organization, and no further development or support will be provided.
+We are no longer accepting feedback, support requests, or partnership inquiries. The Business Suite for Grafana repositories have been archived on our GitHub organization, and no further development or support will be provided.
 
 We are deeply grateful for the incredible support from our community and partners over the past four years.
 
