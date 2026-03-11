@@ -8,8 +8,8 @@ We are deeply grateful for the incredible support from our community and partner
 
 Over the past 4 years, we've created **10+ Grafana Community plugins**, amassing **40+ million downloads** globally. From dynamic panels to powerful data sources, we support our community with:
 
-- 📚 Comprehensive [Documentation](https://docs.volkovlabs.io)
 - 🎥 In-depth [YouTube Tutorials](https://youtube.com/@volkovlabs)
+- 📚 ~~Comprehensive Documentation~~
 - 🛠️ ~~Active GitHub Community Support~~
 
 <div align="center">
